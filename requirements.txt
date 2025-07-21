@@ -1,0 +1,14 @@
+aiohttp
+beautifulsoup4
+pdf2image
+Pillow
+requests
+tqdm
+beautifulsoup4
+pytesseract
+pandas  
+langchain
+ollama
+playwright
+PyMuPDF
+selenium

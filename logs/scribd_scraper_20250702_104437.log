@@ -1,0 +1,50 @@
+2025-07-02 10:44:37 - ScribdScraper - INFO - setup_logging:45 - Logging started - Log file: logs\scribd_scraper_20250702_104437.log
+2025-07-02 10:44:37 - ScribdScraper - INFO - setup_logging:46 - Script started at 2025-07-02 10:44:37.777016
+2025-07-02 10:44:37 - ScribdScraper - INFO - run:354 - Starting scraping process for query: 'australia bank statement' with max_docs: 3
+2025-07-02 10:44:37 - ScribdScraper - INFO - search_google_for_scribd:187 - Starting Google search for query: 'australia bank statement', max_documents: 3
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/494067816/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/505581024/Commonweath-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/494067842/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT-2
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/550599696/1502F90C-DEC7-11EA-9141-704740B88782
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/705668482/Bank-statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/632684916/Westpac-Bank-Statement-BankStatements-net-docx
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/632684912/St-George-Bank-Statement-BankStatements-net
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/749392136/Bank-STATEMENT
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/813931525/01-03-30-04-Australia-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/810118140/BANK-STATEMENT-AUSTRALIA-WISE
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/679969700/Australia-Westpac-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/374909816/NAB-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/679969698/Australia-Westpac-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/813931528/01-05-30-06-Australia-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/808540256/Bank-Statement-Au-1-Doc
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/766030827/Bank-Statement-for-last-3-Months
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/632684788/ANZ-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/718756155/Commonweath-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/725744360/Australia-Bank-Statement-1
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/791273026/Bank-Statement-Commonwealth
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://de.scribd.com/document/813931527/01-08-31-08-Australia-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://translate.google.com/translate
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/721444144/Australia-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/632684680/statement-pdf
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/731558533/Bank-statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/666505832/Statement-2
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/725616831/30-09-2023-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/722845679/Australia-ANZ
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/817289276/494067816-AUSTRALIA-COMMONWEALTH-BANK-STATEMENT-pdf
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/736500327/Australia-Bendigo-Bank-Statement-1
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/722845724/Australia-NAB
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/802137789/ANZ-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/756008787/NAB-Bank-Statement-Copy
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:218 - Found Scribd document: https://www.scribd.com/document/666924251/032913372714-9Commonweath-Bank-Statement-TemplateLab-com
+2025-07-02 10:44:48 - ScribdScraper - INFO - search_google_for_scribd:227 - Found 34 Scribd documents in 11.06 seconds
+2025-07-02 10:44:48 - ScribdScraper - INFO - run:361 - Found 3 documents to process
+2025-07-02 10:44:48 - ScribdScraper - INFO - run:366 - Processing document 1/3: https://www.scribd.com/document/494067816/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT
+2025-07-02 10:44:48 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 494067816 already exists as file: australia_bank_statement_494067816.pdf - skipping
+2025-07-02 10:44:48 - ScribdScraper - INFO - scrape_and_save_pdf:328 - [1] Skipping doc_id 494067816 - already processed
+2025-07-02 10:44:48 - ScribdScraper - INFO - run:366 - Processing document 2/3: https://www.scribd.com/document/505581024/Commonweath-Bank-Statement
+2025-07-02 10:44:48 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 505581024 already exists as file: australia_bank_statement_505581024.pdf - skipping
+2025-07-02 10:44:48 - ScribdScraper - INFO - scrape_and_save_pdf:328 - [2] Skipping doc_id 505581024 - already processed
+2025-07-02 10:44:48 - ScribdScraper - INFO - run:366 - Processing document 3/3: https://www.scribd.com/document/494067842/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT-2
+2025-07-02 10:44:48 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 494067842 already exists as file: australia_bank_statement_494067842.pdf - skipping
+2025-07-02 10:44:48 - ScribdScraper - INFO - scrape_and_save_pdf:328 - [3] Skipping doc_id 494067842 - already processed
+2025-07-02 10:44:48 - ScribdScraper - INFO - run:377 - Scraping process completed: 0 processed, 3 skipped

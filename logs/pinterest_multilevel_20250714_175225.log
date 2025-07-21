@@ -1,0 +1,1099 @@
+2025-07-14 17:52:25 - INFO - Logging initialized. Log file: logs\pinterest_multilevel_20250714_175225.log
+2025-07-14 17:52:25 - INFO - Loaded 418 processed pins from history
+2025-07-14 17:52:25 - INFO - Pinterest Multi-Level Scraper initialized
+2025-07-14 17:52:25 - INFO - Found 418 previously processed pins
+2025-07-14 17:52:25 - INFO - 🚀 Starting Pinterest Multi-Level Scraper
+2025-07-14 17:52:25 - INFO - Keyword: 'Australia Immigration & Visa Details', Main pins: 200, Similar per main: 200
+2025-07-14 17:52:25 - INFO - 🚀 Starting pin collection
+2025-07-14 17:52:25 - INFO - 🔍 STEP 1: Getting 200 NEW main pins for keyword: 'Australia Immigration & Visa Details'
+2025-07-14 17:52:25 - DEBUG - Search URL: https://www.pinterest.com/search/pins/?q=Australia+Immigration+%26+Visa+Details
+2025-07-14 17:52:27 - INFO - Navigating to search page
+2025-07-14 17:52:28 - INFO - Setting page zoom to 25%
+2025-07-14 17:52:28 - INFO - Waiting for page to fully load...
+2025-07-14 17:52:28 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:52:28 - DEBUG - DOM content loaded
+2025-07-14 17:52:48 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-14 17:52:48 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-14 17:52:50 - DEBUG - Page loading complete
+2025-07-14 17:52:53 - DEBUG - Scrolling to load more pins (scroll #11)
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 590675307410771703
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 1/200: 590675307410771703
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 590675307410771703
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/71635450322355361/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 71635450322355361
+2025-07-14 17:52:56 - DEBUG - Pin 71635450322355361 already processed - skipping
+2025-07-14 17:52:56 - DEBUG - Skipped already processed pin: 71635450322355361
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/71635450322355361/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 71635450322355361
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 318066792454748698
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 2/200: 318066792454748698
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 318066792454748698
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 944418984364207670
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 3/200: 944418984364207670
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 944418984364207670
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 343329171596122206
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 4/200: 343329171596122206
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 343329171596122206
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 1150951248517405619
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 5/200: 1150951248517405619
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 1150951248517405619
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 603200943858745897
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 6/200: 603200943858745897
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 603200943858745897
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 883127808176064188
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 7/200: 883127808176064188
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 883127808176064188
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 298152437849267591
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 8/200: 298152437849267591
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 298152437849267591
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 508554982931966991
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 9/200: 508554982931966991
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 508554982931966991
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 885801820494603838
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 10/200: 885801820494603838
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 885801820494603838
+2025-07-14 17:52:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 17:52:56 - DEBUG - Extracted pin ID (standard format): 638737159686756155
+2025-07-14 17:52:56 - DEBUG - Found NEW pin 11/200: 638737159686756155
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 638737159686756155
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 418623727883087448
+2025-07-14 17:52:57 - DEBUG - Found NEW pin 12/200: 418623727883087448
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 418623727883087448
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 685391637071798978
+2025-07-14 17:52:57 - DEBUG - Found NEW pin 13/200: 685391637071798978
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 685391637071798978
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 490822059410777526
+2025-07-14 17:52:57 - DEBUG - Found NEW pin 14/200: 490822059410777526
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 490822059410777526
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 364439794863667663
+2025-07-14 17:52:57 - DEBUG - Found NEW pin 15/200: 364439794863667663
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 364439794863667663
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 513691901267303394
+2025-07-14 17:52:57 - DEBUG - Found NEW pin 16/200: 513691901267303394
+2025-07-14 17:52:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 17:52:57 - DEBUG - Extracted pin ID (standard format): 513691901267303394
+2025-07-14 17:52:57 - DEBUG - Total pins on page: 34, NEW pins found: 16/200
+2025-07-14 17:53:02 - DEBUG - Scrolling to load more pins (scroll #12)
+2025-07-14 17:53:05 - DEBUG - Total pins on page: 34, NEW pins found: 16/200
+2025-07-14 17:53:10 - DEBUG - Scrolling to load more pins (scroll #13)
+2025-07-14 17:53:13 - DEBUG - Total pins on page: 34, NEW pins found: 16/200
+2025-07-14 17:53:18 - DEBUG - Scrolling to load more pins (scroll #14)
+2025-07-14 17:53:21 - DEBUG - Total pins on page: 34, NEW pins found: 16/200
+2025-07-14 17:53:26 - DEBUG - Scrolling to load more pins (scroll #15)
+2025-07-14 17:53:29 - DEBUG - Total pins on page: 34, NEW pins found: 16/200
+2025-07-14 17:53:34 - DEBUG - Scrolling to load more pins (scroll #16)
+2025-07-14 17:53:37 - DEBUG - No new pins loading from page, stopping scroll
+2025-07-14 17:53:37 - INFO - ✅ Successfully extracted 16 NEW main pin URLs
+2025-07-14 17:53:37 - INFO - 🔍 STEP 2: Getting 200 NEW similar pins from each of 16 main pins
+2025-07-14 17:53:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 17:53:37 - DEBUG - Extracted pin ID (standard format): 590675307410771703
+2025-07-14 17:53:37 - INFO - Processing main pin 1/16: 590675307410771703
+2025-07-14 17:53:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 17:53:37 - DEBUG - Extracted pin ID (standard format): 590675307410771703
+2025-07-14 17:53:37 - DEBUG - Getting 200 NEW similar pins from pin 590675307410771703
+2025-07-14 17:53:38 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 17:53:40 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:53:40 - DEBUG - DOM content loaded
+2025-07-14 17:53:43 - DEBUG - Network idle achieved
+2025-07-14 17:53:53 - DEBUG - Selector div[data-test-id='pin'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pin']")
+
+2025-07-14 17:54:03 - DEBUG - Selector div[data-test-id='pinWrapper'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pinWrapper']")
+
+2025-07-14 17:54:03 - DEBUG - Found selector: div[role='button']
+2025-07-14 17:54:05 - DEBUG - Page loading complete
+2025-07-14 17:54:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/590675307410771703/repin/
+2025-07-14 17:54:08 - DEBUG - Extracted pin ID (standard format): 590675307410771703
+2025-07-14 17:54:18 - DEBUG - No new similar pins loading from page. Found 0/200
+2025-07-14 17:54:18 - DEBUG - Found 0 NEW similar pins for pin 590675307410771703
+2025-07-14 17:54:18 - DEBUG - Added 0 new similar pins from main pin 590675307410771703
+2025-07-14 17:54:19 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 17:54:19 - DEBUG - Extracted pin ID (standard format): 318066792454748698
+2025-07-14 17:54:19 - INFO - Processing main pin 2/16: 318066792454748698
+2025-07-14 17:54:19 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 17:54:19 - DEBUG - Extracted pin ID (standard format): 318066792454748698
+2025-07-14 17:54:19 - DEBUG - Getting 200 NEW similar pins from pin 318066792454748698
+2025-07-14 17:54:20 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 17:54:22 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:54:22 - DEBUG - DOM content loaded
+2025-07-14 17:54:26 - DEBUG - Network idle achieved
+2025-07-14 17:54:26 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-14 17:54:28 - DEBUG - Page loading complete
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/318066792454748698/repin/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 318066792454748698
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/802555596137272062/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 802555596137272062
+2025-07-14 17:54:30 - DEBUG - Pin 802555596137272062 already processed - skipping
+2025-07-14 17:54:30 - DEBUG - Skipped already processed similar pin: 802555596137272062
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/802555596137272062/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 802555596137272062
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/174866398026941402/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 174866398026941402
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 1/200: 174866398026941402
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/174866398026941402/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 174866398026941402
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/585819864055021130/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 585819864055021130
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 2/200: 585819864055021130
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/585819864055021130/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 585819864055021130
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/94012710957991939/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 94012710957991939
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 3/200: 94012710957991939
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/94012710957991939/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 94012710957991939
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/thailand-medical-tourism-visa-application-form--208150814011735399/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 208150814011735399
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 4/200: 208150814011735399
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/thailand-medical-tourism-visa-application-form--208150814011735399/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 208150814011735399
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-pdf--945052303062410963/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 945052303062410963
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 5/200: 945052303062410963
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-pdf--945052303062410963/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 945052303062410963
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 855895104220455673
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 6/200: 855895104220455673
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 855895104220455673
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/509610514105700706/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 509610514105700706
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 7/200: 509610514105700706
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/509610514105700706/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 509610514105700706
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/oil-rig--493988652898999825/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 493988652898999825
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 8/200: 493988652898999825
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/oil-rig--493988652898999825/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (description format): 493988652898999825
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/302093087523047453/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 302093087523047453
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 9/200: 302093087523047453
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/302093087523047453/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 302093087523047453
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/872783602812082985/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 872783602812082985
+2025-07-14 17:54:30 - DEBUG - Found NEW similar pin 10/200: 872783602812082985
+2025-07-14 17:54:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/872783602812082985/
+2025-07-14 17:54:30 - DEBUG - Extracted pin ID (standard format): 872783602812082985
+2025-07-14 17:54:40 - DEBUG - No new similar pins loading from page. Found 10/200
+2025-07-14 17:54:40 - DEBUG - Found 10 NEW similar pins for pin 318066792454748698
+2025-07-14 17:54:41 - DEBUG - Added 10 new similar pins from main pin 318066792454748698
+2025-07-14 17:54:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 17:54:42 - DEBUG - Extracted pin ID (standard format): 944418984364207670
+2025-07-14 17:54:42 - INFO - Processing main pin 3/16: 944418984364207670
+2025-07-14 17:54:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 17:54:42 - DEBUG - Extracted pin ID (standard format): 944418984364207670
+2025-07-14 17:54:42 - DEBUG - Getting 200 NEW similar pins from pin 944418984364207670
+2025-07-14 17:54:43 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 17:54:44 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:54:44 - DEBUG - DOM content loaded
+2025-07-14 17:54:48 - DEBUG - Network idle achieved
+2025-07-14 17:54:58 - DEBUG - Selector div[data-test-id='pin'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pin']")
+
+2025-07-14 17:55:08 - DEBUG - Selector div[data-test-id='pinWrapper'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pinWrapper']")
+
+2025-07-14 17:55:08 - DEBUG - Found selector: div[role='button']
+2025-07-14 17:55:10 - DEBUG - Page loading complete
+2025-07-14 17:55:12 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/944418984364207670/repin/
+2025-07-14 17:55:12 - DEBUG - Extracted pin ID (standard format): 944418984364207670
+2025-07-14 17:55:22 - DEBUG - No new similar pins loading from page. Found 0/200
+2025-07-14 17:55:22 - DEBUG - Found 0 NEW similar pins for pin 944418984364207670
+2025-07-14 17:55:22 - DEBUG - Added 0 new similar pins from main pin 944418984364207670
+2025-07-14 17:55:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 17:55:23 - DEBUG - Extracted pin ID (standard format): 343329171596122206
+2025-07-14 17:55:23 - INFO - Processing main pin 4/16: 343329171596122206
+2025-07-14 17:55:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 17:55:23 - DEBUG - Extracted pin ID (standard format): 343329171596122206
+2025-07-14 17:55:23 - DEBUG - Getting 200 NEW similar pins from pin 343329171596122206
+2025-07-14 17:55:24 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 17:55:26 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:55:26 - DEBUG - DOM content loaded
+2025-07-14 17:55:30 - DEBUG - Network idle achieved
+2025-07-14 17:55:40 - DEBUG - Selector div[data-test-id='pin'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pin']")
+
+2025-07-14 17:55:50 - DEBUG - Selector div[data-test-id='pinWrapper'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pinWrapper']")
+
+2025-07-14 17:55:50 - DEBUG - Found selector: div[role='button']
+2025-07-14 17:55:52 - DEBUG - Page loading complete
+2025-07-14 17:55:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/343329171596122206/repin/
+2025-07-14 17:55:54 - DEBUG - Extracted pin ID (standard format): 343329171596122206
+2025-07-14 17:56:04 - DEBUG - No new similar pins loading from page. Found 0/200
+2025-07-14 17:56:04 - DEBUG - Found 0 NEW similar pins for pin 343329171596122206
+2025-07-14 17:56:04 - DEBUG - Added 0 new similar pins from main pin 343329171596122206
+2025-07-14 17:56:05 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 17:56:05 - DEBUG - Extracted pin ID (standard format): 1150951248517405619
+2025-07-14 17:56:05 - INFO - Processing main pin 5/16: 1150951248517405619
+2025-07-14 17:56:05 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 17:56:05 - DEBUG - Extracted pin ID (standard format): 1150951248517405619
+2025-07-14 17:56:05 - DEBUG - Getting 200 NEW similar pins from pin 1150951248517405619
+2025-07-14 17:56:07 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 17:56:09 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:56:09 - DEBUG - DOM content loaded
+2025-07-14 17:56:13 - DEBUG - Network idle achieved
+2025-07-14 17:56:23 - DEBUG - Selector div[data-test-id='pin'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pin']")
+
+2025-07-14 17:56:33 - DEBUG - Selector div[data-test-id='pinWrapper'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pinWrapper']")
+
+2025-07-14 17:56:33 - DEBUG - Found selector: div[role='button']
+2025-07-14 17:56:35 - DEBUG - Page loading complete
+2025-07-14 17:56:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1150951248517405619/repin/
+2025-07-14 17:56:37 - DEBUG - Extracted pin ID (standard format): 1150951248517405619
+2025-07-14 17:56:47 - DEBUG - No new similar pins loading from page. Found 0/200
+2025-07-14 17:56:47 - DEBUG - Found 0 NEW similar pins for pin 1150951248517405619
+2025-07-14 17:56:47 - DEBUG - Added 0 new similar pins from main pin 1150951248517405619
+2025-07-14 17:56:48 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 17:56:48 - DEBUG - Extracted pin ID (standard format): 603200943858745897
+2025-07-14 17:56:48 - INFO - Processing main pin 6/16: 603200943858745897
+2025-07-14 17:56:48 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 17:56:48 - DEBUG - Extracted pin ID (standard format): 603200943858745897
+2025-07-14 17:56:48 - DEBUG - Getting 200 NEW similar pins from pin 603200943858745897
+2025-07-14 17:56:50 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 17:56:51 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:56:51 - DEBUG - DOM content loaded
+2025-07-14 17:56:56 - DEBUG - Network idle achieved
+2025-07-14 17:56:56 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-14 17:56:58 - DEBUG - Page loading complete
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/603200943858745897/repin/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 603200943858745897
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/509610514105700706/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 509610514105700706
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 1/200: 509610514105700706
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/509610514105700706/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 509610514105700706
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-appeal-letter-requesting-reconsideration-of-visa-application-decision--634726141271939843/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (description format): 634726141271939843
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 2/200: 634726141271939843
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-appeal-letter-requesting-reconsideration-of-visa-application-decision--634726141271939843/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (description format): 634726141271939843
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/174866398026941402/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 174866398026941402
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 3/200: 174866398026941402
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/174866398026941402/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 174866398026941402
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/873698396466244619/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 873698396466244619
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 4/200: 873698396466244619
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/873698396466244619/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 873698396466244619
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/604678687500780281/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 604678687500780281
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 5/200: 604678687500780281
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/604678687500780281/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 604678687500780281
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (description format): 121104677475640979
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 6/200: 121104677475640979
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (description format): 121104677475640979
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/657877458099744053/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 657877458099744053
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 7/200: 657877458099744053
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/657877458099744053/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 657877458099744053
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/293367363247612897/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 293367363247612897
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 8/200: 293367363247612897
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/293367363247612897/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 293367363247612897
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/542894930101847711/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 542894930101847711
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 9/200: 542894930101847711
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/542894930101847711/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 542894930101847711
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (description format): 855895104220455673
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 10/200: 855895104220455673
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (description format): 855895104220455673
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/502573639685357669/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 502573639685357669
+2025-07-14 17:57:00 - DEBUG - Found NEW similar pin 11/200: 502573639685357669
+2025-07-14 17:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/502573639685357669/
+2025-07-14 17:57:00 - DEBUG - Extracted pin ID (standard format): 502573639685357669
+2025-07-14 17:57:10 - DEBUG - No new similar pins loading from page. Found 11/200
+2025-07-14 17:57:10 - DEBUG - Found 11 NEW similar pins for pin 603200943858745897
+2025-07-14 17:57:10 - DEBUG - Added 8 new similar pins from main pin 603200943858745897
+2025-07-14 17:57:11 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 17:57:11 - DEBUG - Extracted pin ID (standard format): 883127808176064188
+2025-07-14 17:57:11 - INFO - Processing main pin 7/16: 883127808176064188
+2025-07-14 17:57:11 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 17:57:11 - DEBUG - Extracted pin ID (standard format): 883127808176064188
+2025-07-14 17:57:11 - DEBUG - Getting 200 NEW similar pins from pin 883127808176064188
+2025-07-14 17:57:13 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 17:57:15 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:57:15 - DEBUG - DOM content loaded
+2025-07-14 17:57:18 - DEBUG - Network idle achieved
+2025-07-14 17:57:28 - DEBUG - Selector div[data-test-id='pin'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pin']")
+
+2025-07-14 17:57:38 - DEBUG - Selector div[data-test-id='pinWrapper'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pinWrapper']")
+
+2025-07-14 17:57:38 - DEBUG - Found selector: div[role='button']
+2025-07-14 17:57:40 - DEBUG - Page loading complete
+2025-07-14 17:57:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/883127808176064188/repin/
+2025-07-14 17:57:42 - DEBUG - Extracted pin ID (standard format): 883127808176064188
+2025-07-14 17:57:52 - DEBUG - No new similar pins loading from page. Found 0/200
+2025-07-14 17:57:52 - DEBUG - Found 0 NEW similar pins for pin 883127808176064188
+2025-07-14 17:57:53 - DEBUG - Added 0 new similar pins from main pin 883127808176064188
+2025-07-14 17:57:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 17:57:54 - DEBUG - Extracted pin ID (standard format): 298152437849267591
+2025-07-14 17:57:54 - INFO - Processing main pin 8/16: 298152437849267591
+2025-07-14 17:57:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 17:57:54 - DEBUG - Extracted pin ID (standard format): 298152437849267591
+2025-07-14 17:57:54 - DEBUG - Getting 200 NEW similar pins from pin 298152437849267591
+2025-07-14 17:57:55 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 17:57:56 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:57:56 - DEBUG - DOM content loaded
+2025-07-14 17:58:04 - DEBUG - Network idle achieved
+2025-07-14 17:58:04 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-14 17:58:06 - DEBUG - Page loading complete
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/298152437849267591/repin/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 298152437849267591
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/another-student-visa-approval-in-the-bag-in-2025--329466529007992995/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (description format): 329466529007992995
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 1/200: 329466529007992995
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/another-student-visa-approval-in-the-bag-in-2025--329466529007992995/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (description format): 329466529007992995
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/student-visa--478859372894052556/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (description format): 478859372894052556
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 2/200: 478859372894052556
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/student-visa--478859372894052556/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (description format): 478859372894052556
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18436679719666522/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 18436679719666522
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 3/200: 18436679719666522
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18436679719666522/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 18436679719666522
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/413346072074820185/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 413346072074820185
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 4/200: 413346072074820185
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/413346072074820185/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 413346072074820185
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/65091157109458527/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 65091157109458527
+2025-07-14 17:58:08 - DEBUG - Pin 65091157109458527 already processed - skipping
+2025-07-14 17:58:08 - DEBUG - Skipped already processed similar pin: 65091157109458527
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/65091157109458527/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 65091157109458527
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (description format): 121104677475640979
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 5/200: 121104677475640979
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (description format): 121104677475640979
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/578079302213199466/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 578079302213199466
+2025-07-14 17:58:08 - DEBUG - Pin 578079302213199466 already processed - skipping
+2025-07-14 17:58:08 - DEBUG - Skipped already processed similar pin: 578079302213199466
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/578079302213199466/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 578079302213199466
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/582864376810855976/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 582864376810855976
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 6/200: 582864376810855976
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/582864376810855976/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 582864376810855976
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/133630313950120100/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 133630313950120100
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 7/200: 133630313950120100
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/133630313950120100/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 133630313950120100
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/31947478602985559/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 31947478602985559
+2025-07-14 17:58:08 - DEBUG - Pin 31947478602985559 already processed - skipping
+2025-07-14 17:58:08 - DEBUG - Skipped already processed similar pin: 31947478602985559
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/31947478602985559/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 31947478602985559
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/319896379801274596/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 319896379801274596
+2025-07-14 17:58:08 - DEBUG - Pin 319896379801274596 already processed - skipping
+2025-07-14 17:58:08 - DEBUG - Skipped already processed similar pin: 319896379801274596
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/319896379801274596/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 319896379801274596
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3025924745506853/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 3025924745506853
+2025-07-14 17:58:08 - DEBUG - Found NEW similar pin 8/200: 3025924745506853
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3025924745506853/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 3025924745506853
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/323837029478100183/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 323837029478100183
+2025-07-14 17:58:08 - DEBUG - Pin 323837029478100183 already processed - skipping
+2025-07-14 17:58:08 - DEBUG - Skipped already processed similar pin: 323837029478100183
+2025-07-14 17:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/323837029478100183/
+2025-07-14 17:58:08 - DEBUG - Extracted pin ID (standard format): 323837029478100183
+2025-07-14 17:58:19 - DEBUG - No new similar pins loading from page. Found 8/200
+2025-07-14 17:58:19 - DEBUG - Found 8 NEW similar pins for pin 298152437849267591
+2025-07-14 17:58:19 - DEBUG - Added 7 new similar pins from main pin 298152437849267591
+2025-07-14 17:58:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 17:58:20 - DEBUG - Extracted pin ID (standard format): 508554982931966991
+2025-07-14 17:58:20 - INFO - Processing main pin 9/16: 508554982931966991
+2025-07-14 17:58:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 17:58:20 - DEBUG - Extracted pin ID (standard format): 508554982931966991
+2025-07-14 17:58:20 - DEBUG - Getting 200 NEW similar pins from pin 508554982931966991
+2025-07-14 17:58:21 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 17:58:23 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:58:23 - DEBUG - DOM content loaded
+2025-07-14 17:58:26 - DEBUG - Network idle achieved
+2025-07-14 17:58:36 - DEBUG - Selector div[data-test-id='pin'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pin']")
+
+2025-07-14 17:58:46 - DEBUG - Selector div[data-test-id='pinWrapper'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pinWrapper']")
+
+2025-07-14 17:58:46 - DEBUG - Found selector: div[role='button']
+2025-07-14 17:58:48 - DEBUG - Page loading complete
+2025-07-14 17:58:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/508554982931966991/repin/
+2025-07-14 17:58:50 - DEBUG - Extracted pin ID (standard format): 508554982931966991
+2025-07-14 17:59:00 - DEBUG - No new similar pins loading from page. Found 0/200
+2025-07-14 17:59:00 - DEBUG - Found 0 NEW similar pins for pin 508554982931966991
+2025-07-14 17:59:00 - DEBUG - Added 0 new similar pins from main pin 508554982931966991
+2025-07-14 17:59:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 17:59:01 - DEBUG - Extracted pin ID (standard format): 885801820494603838
+2025-07-14 17:59:01 - INFO - Processing main pin 10/16: 885801820494603838
+2025-07-14 17:59:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 17:59:01 - DEBUG - Extracted pin ID (standard format): 885801820494603838
+2025-07-14 17:59:01 - DEBUG - Getting 200 NEW similar pins from pin 885801820494603838
+2025-07-14 17:59:03 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 17:59:04 - DEBUG - Waiting for page to be fully loaded...
+2025-07-14 17:59:04 - DEBUG - DOM content loaded
+2025-07-14 17:59:08 - DEBUG - Network idle achieved
+2025-07-14 17:59:18 - DEBUG - Selector div[data-test-id='pin'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pin']")
+
+2025-07-14 17:59:28 - DEBUG - Selector div[data-test-id='pinWrapper'] not found: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-test-id='pinWrapper']")
+
+2025-07-14 17:59:28 - DEBUG - Found selector: div[role='button']
+2025-07-14 17:59:30 - DEBUG - Page loading complete
+2025-07-14 17:59:32 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/885801820494603838/repin/
+2025-07-14 17:59:32 - DEBUG - Extracted pin ID (standard format): 885801820494603838
+2025-07-14 17:59:42 - DEBUG - No new similar pins loading from page. Found 0/200
+2025-07-14 17:59:42 - DEBUG - Found 0 NEW similar pins for pin 885801820494603838
+2025-07-14 17:59:42 - DEBUG - Added 0 new similar pins from main pin 885801820494603838
+2025-07-14 17:59:43 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 17:59:43 - DEBUG - Extracted pin ID (standard format): 638737159686756155
+2025-07-14 17:59:43 - INFO - Processing main pin 11/16: 638737159686756155
+2025-07-14 17:59:43 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 17:59:43 - DEBUG - Extracted pin ID (standard format): 638737159686756155
+2025-07-14 17:59:43 - DEBUG - Getting 200 NEW similar pins from pin 638737159686756155
+2025-07-14 17:59:44 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 17:59:44 - ERROR - Error getting similar pins from 638737159686756155: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/638737159686756155/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/638737159686756155/", waiting until "load"
+
+2025-07-14 17:59:45 - DEBUG - Added 0 new similar pins from main pin 638737159686756155
+2025-07-14 17:59:46 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 17:59:46 - DEBUG - Extracted pin ID (standard format): 418623727883087448
+2025-07-14 17:59:46 - INFO - Processing main pin 12/16: 418623727883087448
+2025-07-14 17:59:46 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 17:59:46 - DEBUG - Extracted pin ID (standard format): 418623727883087448
+2025-07-14 17:59:46 - DEBUG - Getting 200 NEW similar pins from pin 418623727883087448
+2025-07-14 17:59:47 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 17:59:55 - ERROR - Error getting similar pins from 418623727883087448: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/418623727883087448/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/418623727883087448/", waiting until "load"
+
+2025-07-14 17:59:56 - DEBUG - Added 0 new similar pins from main pin 418623727883087448
+2025-07-14 17:59:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 17:59:57 - DEBUG - Extracted pin ID (standard format): 685391637071798978
+2025-07-14 17:59:57 - INFO - Processing main pin 13/16: 685391637071798978
+2025-07-14 17:59:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 17:59:57 - DEBUG - Extracted pin ID (standard format): 685391637071798978
+2025-07-14 17:59:57 - DEBUG - Getting 200 NEW similar pins from pin 685391637071798978
+2025-07-14 17:59:58 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 17:59:58 - ERROR - Error getting similar pins from 685391637071798978: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/685391637071798978/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/685391637071798978/", waiting until "load"
+
+2025-07-14 17:59:58 - DEBUG - Added 0 new similar pins from main pin 685391637071798978
+2025-07-14 17:59:59 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 17:59:59 - DEBUG - Extracted pin ID (standard format): 490822059410777526
+2025-07-14 17:59:59 - INFO - Processing main pin 14/16: 490822059410777526
+2025-07-14 17:59:59 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 17:59:59 - DEBUG - Extracted pin ID (standard format): 490822059410777526
+2025-07-14 17:59:59 - DEBUG - Getting 200 NEW similar pins from pin 490822059410777526
+2025-07-14 18:00:01 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 18:00:13 - ERROR - Error getting similar pins from 490822059410777526: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/490822059410777526/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/490822059410777526/", waiting until "load"
+
+2025-07-14 18:00:13 - DEBUG - Added 0 new similar pins from main pin 490822059410777526
+2025-07-14 18:00:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 18:00:14 - DEBUG - Extracted pin ID (standard format): 364439794863667663
+2025-07-14 18:00:14 - INFO - Processing main pin 15/16: 364439794863667663
+2025-07-14 18:00:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 18:00:14 - DEBUG - Extracted pin ID (standard format): 364439794863667663
+2025-07-14 18:00:14 - DEBUG - Getting 200 NEW similar pins from pin 364439794863667663
+2025-07-14 18:00:15 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 18:00:17 - ERROR - Error getting similar pins from 364439794863667663: Page.goto: net::ERR_NETWORK_CHANGED at https://www.pinterest.com/pin/364439794863667663/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/364439794863667663/", waiting until "load"
+
+2025-07-14 18:00:17 - DEBUG - Added 0 new similar pins from main pin 364439794863667663
+2025-07-14 18:00:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 18:00:18 - DEBUG - Extracted pin ID (standard format): 513691901267303394
+2025-07-14 18:00:18 - INFO - Processing main pin 16/16: 513691901267303394
+2025-07-14 18:00:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 18:00:18 - DEBUG - Extracted pin ID (standard format): 513691901267303394
+2025-07-14 18:00:18 - DEBUG - Getting 200 NEW similar pins from pin 513691901267303394
+2025-07-14 18:00:20 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 18:00:21 - ERROR - Error getting similar pins from 513691901267303394: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/513691901267303394/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/513691901267303394/", waiting until "load"
+
+2025-07-14 18:00:21 - DEBUG - Added 0 new similar pins from main pin 513691901267303394
+2025-07-14 18:00:22 - INFO - ✅ Total unique pins collected: 41
+2025-07-14 18:00:22 - INFO - 🔽 STEP 3: Downloading 41 pins
+2025-07-14 18:00:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 18:00:22 - DEBUG - Extracted pin ID (standard format): 1150951248517405619
+2025-07-14 18:00:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 18:00:22 - DEBUG - Extracted pin ID (standard format): 1150951248517405619
+2025-07-14 18:00:22 - INFO - Processing pin: 1150951248517405619
+2025-07-14 18:00:22 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/1150951248517405619/
+2025-07-14 18:00:23 - DEBUG - Navigating to pin page
+2025-07-14 18:00:24 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/1150951248517405619/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/1150951248517405619/", waiting until "load"
+
+2025-07-14 18:00:24 - ERROR - Could not extract image URL for pin 1150951248517405619
+2025-07-14 18:00:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 18:00:24 - DEBUG - Extracted pin ID (standard format): 298152437849267591
+2025-07-14 18:00:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 18:00:24 - DEBUG - Extracted pin ID (standard format): 298152437849267591
+2025-07-14 18:00:24 - INFO - Processing pin: 298152437849267591
+2025-07-14 18:00:24 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/298152437849267591/
+2025-07-14 18:00:26 - DEBUG - Navigating to pin page
+2025-07-14 18:00:26 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/298152437849267591/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/298152437849267591/", waiting until "load"
+
+2025-07-14 18:00:26 - ERROR - Could not extract image URL for pin 298152437849267591
+2025-07-14 18:00:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/509610514105700706/
+2025-07-14 18:00:26 - DEBUG - Extracted pin ID (standard format): 509610514105700706
+2025-07-14 18:00:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/509610514105700706/
+2025-07-14 18:00:26 - DEBUG - Extracted pin ID (standard format): 509610514105700706
+2025-07-14 18:00:26 - INFO - Processing pin: 509610514105700706
+2025-07-14 18:00:26 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/509610514105700706/
+2025-07-14 18:00:28 - DEBUG - Navigating to pin page
+2025-07-14 18:00:28 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/509610514105700706/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/509610514105700706/", waiting until "load"
+
+2025-07-14 18:00:28 - ERROR - Could not extract image URL for pin 509610514105700706
+2025-07-14 18:00:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 18:00:28 - DEBUG - Extracted pin ID (standard format): 590675307410771703
+2025-07-14 18:00:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 18:00:28 - DEBUG - Extracted pin ID (standard format): 590675307410771703
+2025-07-14 18:00:28 - INFO - Processing pin: 590675307410771703
+2025-07-14 18:00:28 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/590675307410771703/
+2025-07-14 18:00:30 - DEBUG - Navigating to pin page
+2025-07-14 18:00:30 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/590675307410771703/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/590675307410771703/", waiting until "load"
+
+2025-07-14 18:00:30 - ERROR - Could not extract image URL for pin 590675307410771703
+2025-07-14 18:00:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+2025-07-14 18:00:30 - DEBUG - Extracted pin ID (description format): 855895104220455673
+2025-07-14 18:00:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+2025-07-14 18:00:30 - DEBUG - Extracted pin ID (description format): 855895104220455673
+2025-07-14 18:00:30 - INFO - Processing pin: 855895104220455673
+2025-07-14 18:00:30 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+2025-07-14 18:00:32 - DEBUG - Navigating to pin page
+2025-07-14 18:00:32 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/certificate-in-2025--855895104220455673/", waiting until "load"
+
+2025-07-14 18:00:32 - ERROR - Could not extract image URL for pin 855895104220455673
+2025-07-14 18:00:32 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 18:00:32 - DEBUG - Extracted pin ID (standard format): 508554982931966991
+2025-07-14 18:00:32 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 18:00:32 - DEBUG - Extracted pin ID (standard format): 508554982931966991
+2025-07-14 18:00:32 - INFO - Processing pin: 508554982931966991
+2025-07-14 18:00:32 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/508554982931966991/
+2025-07-14 18:00:34 - DEBUG - Navigating to pin page
+2025-07-14 18:00:34 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/508554982931966991/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/508554982931966991/", waiting until "load"
+
+2025-07-14 18:00:34 - ERROR - Could not extract image URL for pin 508554982931966991
+2025-07-14 18:00:34 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 18:00:34 - DEBUG - Extracted pin ID (standard format): 883127808176064188
+2025-07-14 18:00:34 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 18:00:34 - DEBUG - Extracted pin ID (standard format): 883127808176064188
+2025-07-14 18:00:34 - INFO - Processing pin: 883127808176064188
+2025-07-14 18:00:34 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/883127808176064188/
+2025-07-14 18:00:36 - DEBUG - Navigating to pin page
+2025-07-14 18:00:36 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/883127808176064188/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/883127808176064188/", waiting until "load"
+
+2025-07-14 18:00:36 - ERROR - Could not extract image URL for pin 883127808176064188
+2025-07-14 18:00:36 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/872783602812082985/
+2025-07-14 18:00:36 - DEBUG - Extracted pin ID (standard format): 872783602812082985
+2025-07-14 18:00:36 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/872783602812082985/
+2025-07-14 18:00:36 - DEBUG - Extracted pin ID (standard format): 872783602812082985
+2025-07-14 18:00:36 - INFO - Processing pin: 872783602812082985
+2025-07-14 18:00:36 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/872783602812082985/
+2025-07-14 18:00:38 - DEBUG - Navigating to pin page
+2025-07-14 18:00:38 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/872783602812082985/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/872783602812082985/", waiting until "load"
+
+2025-07-14 18:00:38 - ERROR - Could not extract image URL for pin 872783602812082985
+2025-07-14 18:00:38 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/94012710957991939/
+2025-07-14 18:00:38 - DEBUG - Extracted pin ID (standard format): 94012710957991939
+2025-07-14 18:00:38 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/94012710957991939/
+2025-07-14 18:00:38 - DEBUG - Extracted pin ID (standard format): 94012710957991939
+2025-07-14 18:00:38 - INFO - Processing pin: 94012710957991939
+2025-07-14 18:00:38 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/94012710957991939/
+2025-07-14 18:00:40 - DEBUG - Navigating to pin page
+2025-07-14 18:00:40 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/94012710957991939/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/94012710957991939/", waiting until "load"
+
+2025-07-14 18:00:40 - ERROR - Could not extract image URL for pin 94012710957991939
+2025-07-14 18:00:40 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 18:00:40 - DEBUG - Extracted pin ID (standard format): 513691901267303394
+2025-07-14 18:00:40 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 18:00:40 - DEBUG - Extracted pin ID (standard format): 513691901267303394
+2025-07-14 18:00:40 - INFO - Processing pin: 513691901267303394
+2025-07-14 18:00:40 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/513691901267303394/
+2025-07-14 18:00:42 - DEBUG - Navigating to pin page
+2025-07-14 18:00:42 - ERROR - Error extracting image URL: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.pinterest.com/pin/513691901267303394/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/513691901267303394/", waiting until "load"
+
+2025-07-14 18:00:42 - ERROR - Could not extract image URL for pin 513691901267303394
+2025-07-14 18:00:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/thailand-medical-tourism-visa-application-form--208150814011735399/
+2025-07-14 18:00:42 - DEBUG - Extracted pin ID (description format): 208150814011735399
+2025-07-14 18:00:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/thailand-medical-tourism-visa-application-form--208150814011735399/
+2025-07-14 18:00:42 - DEBUG - Extracted pin ID (description format): 208150814011735399
+2025-07-14 18:00:42 - INFO - Processing pin: 208150814011735399
+2025-07-14 18:00:42 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/thailand-medical-tourism-visa-application-form--208150814011735399/
+2025-07-14 18:00:44 - DEBUG - Navigating to pin page
+2025-07-14 18:00:44 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/thailand-medical-tourism-visa-application-form--208150814011735399/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/thailand-medical-tourism-visa-application-form--208150814011735399/", waiting until "load"
+
+2025-07-14 18:00:44 - ERROR - Could not extract image URL for pin 208150814011735399
+2025-07-14 18:00:44 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/133630313950120100/
+2025-07-14 18:00:44 - DEBUG - Extracted pin ID (standard format): 133630313950120100
+2025-07-14 18:00:44 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/133630313950120100/
+2025-07-14 18:00:44 - DEBUG - Extracted pin ID (standard format): 133630313950120100
+2025-07-14 18:00:44 - INFO - Processing pin: 133630313950120100
+2025-07-14 18:00:44 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/133630313950120100/
+2025-07-14 18:00:46 - DEBUG - Navigating to pin page
+2025-07-14 18:00:48 - ERROR - Error extracting image URL: Page.goto: net::ERR_NETWORK_CHANGED at https://www.pinterest.com/pin/133630313950120100/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/133630313950120100/", waiting until "load"
+
+2025-07-14 18:00:48 - ERROR - Could not extract image URL for pin 133630313950120100
+2025-07-14 18:00:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/542894930101847711/
+2025-07-14 18:00:49 - DEBUG - Extracted pin ID (standard format): 542894930101847711
+2025-07-14 18:00:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/542894930101847711/
+2025-07-14 18:00:49 - DEBUG - Extracted pin ID (standard format): 542894930101847711
+2025-07-14 18:00:49 - INFO - Processing pin: 542894930101847711
+2025-07-14 18:00:49 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/542894930101847711/
+2025-07-14 18:00:50 - DEBUG - Navigating to pin page
+2025-07-14 18:01:11 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/542894930101847711/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/542894930101847711/", waiting until "load"
+
+2025-07-14 18:01:11 - ERROR - Could not extract image URL for pin 542894930101847711
+2025-07-14 18:01:12 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3025924745506853/
+2025-07-14 18:01:12 - DEBUG - Extracted pin ID (standard format): 3025924745506853
+2025-07-14 18:01:12 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3025924745506853/
+2025-07-14 18:01:12 - DEBUG - Extracted pin ID (standard format): 3025924745506853
+2025-07-14 18:01:12 - INFO - Processing pin: 3025924745506853
+2025-07-14 18:01:12 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/3025924745506853/
+2025-07-14 18:01:13 - DEBUG - Navigating to pin page
+2025-07-14 18:01:13 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/3025924745506853/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/3025924745506853/", waiting until "load"
+
+2025-07-14 18:01:13 - ERROR - Could not extract image URL for pin 3025924745506853
+2025-07-14 18:01:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/293367363247612897/
+2025-07-14 18:01:14 - DEBUG - Extracted pin ID (standard format): 293367363247612897
+2025-07-14 18:01:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/293367363247612897/
+2025-07-14 18:01:14 - DEBUG - Extracted pin ID (standard format): 293367363247612897
+2025-07-14 18:01:14 - INFO - Processing pin: 293367363247612897
+2025-07-14 18:01:14 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/293367363247612897/
+2025-07-14 18:01:15 - DEBUG - Navigating to pin page
+2025-07-14 18:01:15 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/293367363247612897/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/293367363247612897/", waiting until "load"
+
+2025-07-14 18:01:15 - ERROR - Could not extract image URL for pin 293367363247612897
+2025-07-14 18:01:16 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 18:01:16 - DEBUG - Extracted pin ID (standard format): 603200943858745897
+2025-07-14 18:01:16 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 18:01:16 - DEBUG - Extracted pin ID (standard format): 603200943858745897
+2025-07-14 18:01:16 - INFO - Processing pin: 603200943858745897
+2025-07-14 18:01:16 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/603200943858745897/
+2025-07-14 18:01:17 - DEBUG - Navigating to pin page
+2025-07-14 18:01:17 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/603200943858745897/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/603200943858745897/", waiting until "load"
+
+2025-07-14 18:01:17 - ERROR - Could not extract image URL for pin 603200943858745897
+2025-07-14 18:01:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/585819864055021130/
+2025-07-14 18:01:18 - DEBUG - Extracted pin ID (standard format): 585819864055021130
+2025-07-14 18:01:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/585819864055021130/
+2025-07-14 18:01:18 - DEBUG - Extracted pin ID (standard format): 585819864055021130
+2025-07-14 18:01:18 - INFO - Processing pin: 585819864055021130
+2025-07-14 18:01:18 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/585819864055021130/
+2025-07-14 18:01:19 - DEBUG - Navigating to pin page
+2025-07-14 18:01:25 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/585819864055021130/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/585819864055021130/", waiting until "load"
+
+2025-07-14 18:01:25 - ERROR - Could not extract image URL for pin 585819864055021130
+2025-07-14 18:01:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-pdf--945052303062410963/
+2025-07-14 18:01:26 - DEBUG - Extracted pin ID (description format): 945052303062410963
+2025-07-14 18:01:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-pdf--945052303062410963/
+2025-07-14 18:01:26 - DEBUG - Extracted pin ID (description format): 945052303062410963
+2025-07-14 18:01:26 - INFO - Processing pin: 945052303062410963
+2025-07-14 18:01:26 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/visa-pdf--945052303062410963/
+2025-07-14 18:01:27 - DEBUG - Navigating to pin page
+2025-07-14 18:01:27 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/visa-pdf--945052303062410963/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/visa-pdf--945052303062410963/", waiting until "load"
+
+2025-07-14 18:01:27 - ERROR - Could not extract image URL for pin 945052303062410963
+2025-07-14 18:01:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/302093087523047453/
+2025-07-14 18:01:28 - DEBUG - Extracted pin ID (standard format): 302093087523047453
+2025-07-14 18:01:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/302093087523047453/
+2025-07-14 18:01:28 - DEBUG - Extracted pin ID (standard format): 302093087523047453
+2025-07-14 18:01:28 - INFO - Processing pin: 302093087523047453
+2025-07-14 18:01:28 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/302093087523047453/
+2025-07-14 18:01:29 - DEBUG - Navigating to pin page
+2025-07-14 18:01:29 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/302093087523047453/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/302093087523047453/", waiting until "load"
+
+2025-07-14 18:01:29 - ERROR - Could not extract image URL for pin 302093087523047453
+2025-07-14 18:01:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/student-visa--478859372894052556/
+2025-07-14 18:01:30 - DEBUG - Extracted pin ID (description format): 478859372894052556
+2025-07-14 18:01:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/student-visa--478859372894052556/
+2025-07-14 18:01:30 - DEBUG - Extracted pin ID (description format): 478859372894052556
+2025-07-14 18:01:30 - INFO - Processing pin: 478859372894052556
+2025-07-14 18:01:30 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/student-visa--478859372894052556/
+2025-07-14 18:01:31 - DEBUG - Navigating to pin page
+2025-07-14 18:01:37 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/student-visa--478859372894052556/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/student-visa--478859372894052556/", waiting until "load"
+
+2025-07-14 18:01:37 - ERROR - Could not extract image URL for pin 478859372894052556
+2025-07-14 18:01:38 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 18:01:38 - DEBUG - Extracted pin ID (standard format): 638737159686756155
+2025-07-14 18:01:38 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 18:01:38 - DEBUG - Extracted pin ID (standard format): 638737159686756155
+2025-07-14 18:01:38 - INFO - Processing pin: 638737159686756155
+2025-07-14 18:01:38 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/638737159686756155/
+2025-07-14 18:01:39 - DEBUG - Navigating to pin page
+2025-07-14 18:01:39 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/638737159686756155/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/638737159686756155/", waiting until "load"
+
+2025-07-14 18:01:39 - ERROR - Could not extract image URL for pin 638737159686756155
+2025-07-14 18:01:40 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18436679719666522/
+2025-07-14 18:01:40 - DEBUG - Extracted pin ID (standard format): 18436679719666522
+2025-07-14 18:01:40 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18436679719666522/
+2025-07-14 18:01:40 - DEBUG - Extracted pin ID (standard format): 18436679719666522
+2025-07-14 18:01:40 - INFO - Processing pin: 18436679719666522
+2025-07-14 18:01:40 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/18436679719666522/
+2025-07-14 18:01:41 - DEBUG - Navigating to pin page
+2025-07-14 18:01:41 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/18436679719666522/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/18436679719666522/", waiting until "load"
+
+2025-07-14 18:01:41 - ERROR - Could not extract image URL for pin 18436679719666522
+2025-07-14 18:01:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/174866398026941402/
+2025-07-14 18:01:42 - DEBUG - Extracted pin ID (standard format): 174866398026941402
+2025-07-14 18:01:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/174866398026941402/
+2025-07-14 18:01:42 - DEBUG - Extracted pin ID (standard format): 174866398026941402
+2025-07-14 18:01:42 - INFO - Processing pin: 174866398026941402
+2025-07-14 18:01:42 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/174866398026941402/
+2025-07-14 18:01:43 - DEBUG - Navigating to pin page
+2025-07-14 18:01:43 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/174866398026941402/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/174866398026941402/", waiting until "load"
+
+2025-07-14 18:01:43 - ERROR - Could not extract image URL for pin 174866398026941402
+2025-07-14 18:01:44 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-appeal-letter-requesting-reconsideration-of-visa-application-decision--634726141271939843/
+2025-07-14 18:01:44 - DEBUG - Extracted pin ID (description format): 634726141271939843
+2025-07-14 18:01:44 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/visa-appeal-letter-requesting-reconsideration-of-visa-application-decision--634726141271939843/
+2025-07-14 18:01:44 - DEBUG - Extracted pin ID (description format): 634726141271939843
+2025-07-14 18:01:44 - INFO - Processing pin: 634726141271939843
+2025-07-14 18:01:44 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/visa-appeal-letter-requesting-reconsideration-of-visa-application-decision--634726141271939843/
+2025-07-14 18:01:45 - DEBUG - Navigating to pin page
+2025-07-14 18:01:45 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/visa-appeal-letter-requesting-reconsideration-of-visa-application-decision--634726141271939843/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/visa-appeal-letter-requesting-reconsideration-of-visa-application-decision--634726141271939843/", waiting until "load"
+
+2025-07-14 18:01:45 - ERROR - Could not extract image URL for pin 634726141271939843
+2025-07-14 18:01:46 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 18:01:46 - DEBUG - Extracted pin ID (standard format): 944418984364207670
+2025-07-14 18:01:46 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 18:01:46 - DEBUG - Extracted pin ID (standard format): 944418984364207670
+2025-07-14 18:01:46 - INFO - Processing pin: 944418984364207670
+2025-07-14 18:01:46 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/944418984364207670/
+2025-07-14 18:01:47 - DEBUG - Navigating to pin page
+2025-07-14 18:01:47 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/944418984364207670/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/944418984364207670/", waiting until "load"
+
+2025-07-14 18:01:47 - ERROR - Could not extract image URL for pin 944418984364207670
+2025-07-14 18:01:48 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/582864376810855976/
+2025-07-14 18:01:48 - DEBUG - Extracted pin ID (standard format): 582864376810855976
+2025-07-14 18:01:48 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/582864376810855976/
+2025-07-14 18:01:48 - DEBUG - Extracted pin ID (standard format): 582864376810855976
+2025-07-14 18:01:48 - INFO - Processing pin: 582864376810855976
+2025-07-14 18:01:48 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/582864376810855976/
+2025-07-14 18:01:49 - DEBUG - Navigating to pin page
+2025-07-14 18:01:49 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/582864376810855976/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/582864376810855976/", waiting until "load"
+
+2025-07-14 18:01:49 - ERROR - Could not extract image URL for pin 582864376810855976
+2025-07-14 18:01:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 18:01:50 - DEBUG - Extracted pin ID (standard format): 364439794863667663
+2025-07-14 18:01:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 18:01:50 - DEBUG - Extracted pin ID (standard format): 364439794863667663
+2025-07-14 18:01:50 - INFO - Processing pin: 364439794863667663
+2025-07-14 18:01:50 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/364439794863667663/
+2025-07-14 18:01:51 - DEBUG - Navigating to pin page
+2025-07-14 18:01:51 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/364439794863667663/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/364439794863667663/", waiting until "load"
+
+2025-07-14 18:01:51 - ERROR - Could not extract image URL for pin 364439794863667663
+2025-07-14 18:01:52 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/604678687500780281/
+2025-07-14 18:01:52 - DEBUG - Extracted pin ID (standard format): 604678687500780281
+2025-07-14 18:01:52 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/604678687500780281/
+2025-07-14 18:01:52 - DEBUG - Extracted pin ID (standard format): 604678687500780281
+2025-07-14 18:01:52 - INFO - Processing pin: 604678687500780281
+2025-07-14 18:01:52 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/604678687500780281/
+2025-07-14 18:01:53 - DEBUG - Navigating to pin page
+2025-07-14 18:01:53 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/604678687500780281/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/604678687500780281/", waiting until "load"
+
+2025-07-14 18:01:53 - ERROR - Could not extract image URL for pin 604678687500780281
+2025-07-14 18:01:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/657877458099744053/
+2025-07-14 18:01:54 - DEBUG - Extracted pin ID (standard format): 657877458099744053
+2025-07-14 18:01:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/657877458099744053/
+2025-07-14 18:01:54 - DEBUG - Extracted pin ID (standard format): 657877458099744053
+2025-07-14 18:01:54 - INFO - Processing pin: 657877458099744053
+2025-07-14 18:01:54 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/657877458099744053/
+2025-07-14 18:01:55 - DEBUG - Navigating to pin page
+2025-07-14 18:02:01 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/657877458099744053/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/657877458099744053/", waiting until "load"
+
+2025-07-14 18:02:01 - ERROR - Could not extract image URL for pin 657877458099744053
+2025-07-14 18:02:02 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 18:02:02 - DEBUG - Extracted pin ID (standard format): 343329171596122206
+2025-07-14 18:02:02 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 18:02:02 - DEBUG - Extracted pin ID (standard format): 343329171596122206
+2025-07-14 18:02:02 - INFO - Processing pin: 343329171596122206
+2025-07-14 18:02:02 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/343329171596122206/
+2025-07-14 18:02:03 - DEBUG - Navigating to pin page
+2025-07-14 18:02:03 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/343329171596122206/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/343329171596122206/", waiting until "load"
+
+2025-07-14 18:02:03 - ERROR - Could not extract image URL for pin 343329171596122206
+2025-07-14 18:02:04 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 18:02:04 - DEBUG - Extracted pin ID (standard format): 885801820494603838
+2025-07-14 18:02:04 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 18:02:04 - DEBUG - Extracted pin ID (standard format): 885801820494603838
+2025-07-14 18:02:04 - INFO - Processing pin: 885801820494603838
+2025-07-14 18:02:04 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/885801820494603838/
+2025-07-14 18:02:05 - DEBUG - Navigating to pin page
+2025-07-14 18:02:05 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/885801820494603838/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/885801820494603838/", waiting until "load"
+
+2025-07-14 18:02:05 - ERROR - Could not extract image URL for pin 885801820494603838
+2025-07-14 18:02:06 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 18:02:06 - DEBUG - Extracted pin ID (standard format): 490822059410777526
+2025-07-14 18:02:06 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 18:02:06 - DEBUG - Extracted pin ID (standard format): 490822059410777526
+2025-07-14 18:02:06 - INFO - Processing pin: 490822059410777526
+2025-07-14 18:02:06 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/490822059410777526/
+2025-07-14 18:02:07 - DEBUG - Navigating to pin page
+2025-07-14 18:02:13 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/490822059410777526/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/490822059410777526/", waiting until "load"
+
+2025-07-14 18:02:13 - ERROR - Could not extract image URL for pin 490822059410777526
+2025-07-14 18:02:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/oil-rig--493988652898999825/
+2025-07-14 18:02:14 - DEBUG - Extracted pin ID (description format): 493988652898999825
+2025-07-14 18:02:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/oil-rig--493988652898999825/
+2025-07-14 18:02:14 - DEBUG - Extracted pin ID (description format): 493988652898999825
+2025-07-14 18:02:14 - INFO - Processing pin: 493988652898999825
+2025-07-14 18:02:14 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/oil-rig--493988652898999825/
+2025-07-14 18:02:15 - DEBUG - Navigating to pin page
+2025-07-14 18:02:15 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/oil-rig--493988652898999825/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/oil-rig--493988652898999825/", waiting until "load"
+
+2025-07-14 18:02:15 - ERROR - Could not extract image URL for pin 493988652898999825
+2025-07-14 18:02:16 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 18:02:16 - DEBUG - Extracted pin ID (standard format): 418623727883087448
+2025-07-14 18:02:16 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 18:02:16 - DEBUG - Extracted pin ID (standard format): 418623727883087448
+2025-07-14 18:02:16 - INFO - Processing pin: 418623727883087448
+2025-07-14 18:02:16 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/418623727883087448/
+2025-07-14 18:02:17 - DEBUG - Navigating to pin page
+2025-07-14 18:02:17 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/418623727883087448/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/418623727883087448/", waiting until "load"
+
+2025-07-14 18:02:17 - ERROR - Could not extract image URL for pin 418623727883087448
+2025-07-14 18:02:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/413346072074820185/
+2025-07-14 18:02:18 - DEBUG - Extracted pin ID (standard format): 413346072074820185
+2025-07-14 18:02:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/413346072074820185/
+2025-07-14 18:02:18 - DEBUG - Extracted pin ID (standard format): 413346072074820185
+2025-07-14 18:02:18 - INFO - Processing pin: 413346072074820185
+2025-07-14 18:02:18 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/413346072074820185/
+2025-07-14 18:02:19 - DEBUG - Navigating to pin page
+2025-07-14 18:02:25 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/413346072074820185/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/413346072074820185/", waiting until "load"
+
+2025-07-14 18:02:25 - ERROR - Could not extract image URL for pin 413346072074820185
+2025-07-14 18:02:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 18:02:26 - DEBUG - Extracted pin ID (standard format): 685391637071798978
+2025-07-14 18:02:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 18:02:26 - DEBUG - Extracted pin ID (standard format): 685391637071798978
+2025-07-14 18:02:26 - INFO - Processing pin: 685391637071798978
+2025-07-14 18:02:26 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/685391637071798978/
+2025-07-14 18:02:27 - DEBUG - Navigating to pin page
+2025-07-14 18:02:27 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/685391637071798978/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/685391637071798978/", waiting until "load"
+
+2025-07-14 18:02:27 - ERROR - Could not extract image URL for pin 685391637071798978
+2025-07-14 18:02:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 18:02:28 - DEBUG - Extracted pin ID (standard format): 318066792454748698
+2025-07-14 18:02:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 18:02:28 - DEBUG - Extracted pin ID (standard format): 318066792454748698
+2025-07-14 18:02:28 - INFO - Processing pin: 318066792454748698
+2025-07-14 18:02:28 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/318066792454748698/
+2025-07-14 18:02:29 - DEBUG - Navigating to pin page
+2025-07-14 18:02:29 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/318066792454748698/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/318066792454748698/", waiting until "load"
+
+2025-07-14 18:02:29 - ERROR - Could not extract image URL for pin 318066792454748698
+2025-07-14 18:02:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/502573639685357669/
+2025-07-14 18:02:30 - DEBUG - Extracted pin ID (standard format): 502573639685357669
+2025-07-14 18:02:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/502573639685357669/
+2025-07-14 18:02:30 - DEBUG - Extracted pin ID (standard format): 502573639685357669
+2025-07-14 18:02:30 - INFO - Processing pin: 502573639685357669
+2025-07-14 18:02:30 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/502573639685357669/
+2025-07-14 18:02:31 - DEBUG - Navigating to pin page
+2025-07-14 18:02:31 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/502573639685357669/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/502573639685357669/", waiting until "load"
+
+2025-07-14 18:02:31 - ERROR - Could not extract image URL for pin 502573639685357669
+2025-07-14 18:02:32 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/873698396466244619/
+2025-07-14 18:02:32 - DEBUG - Extracted pin ID (standard format): 873698396466244619
+2025-07-14 18:02:32 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/873698396466244619/
+2025-07-14 18:02:32 - DEBUG - Extracted pin ID (standard format): 873698396466244619
+2025-07-14 18:02:32 - INFO - Processing pin: 873698396466244619
+2025-07-14 18:02:32 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/873698396466244619/
+2025-07-14 18:02:33 - DEBUG - Navigating to pin page
+2025-07-14 18:02:33 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/873698396466244619/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/873698396466244619/", waiting until "load"
+
+2025-07-14 18:02:33 - ERROR - Could not extract image URL for pin 873698396466244619
+2025-07-14 18:02:34 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/another-student-visa-approval-in-the-bag-in-2025--329466529007992995/
+2025-07-14 18:02:34 - DEBUG - Extracted pin ID (description format): 329466529007992995
+2025-07-14 18:02:34 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/another-student-visa-approval-in-the-bag-in-2025--329466529007992995/
+2025-07-14 18:02:34 - DEBUG - Extracted pin ID (description format): 329466529007992995
+2025-07-14 18:02:34 - INFO - Processing pin: 329466529007992995
+2025-07-14 18:02:34 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/another-student-visa-approval-in-the-bag-in-2025--329466529007992995/
+2025-07-14 18:02:35 - DEBUG - Navigating to pin page
+2025-07-14 18:02:35 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/another-student-visa-approval-in-the-bag-in-2025--329466529007992995/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/another-student-visa-approval-in-the-bag-in-2025--329466529007992995/", waiting until "load"
+
+2025-07-14 18:02:35 - ERROR - Could not extract image URL for pin 329466529007992995
+2025-07-14 18:02:36 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+2025-07-14 18:02:36 - DEBUG - Extracted pin ID (description format): 121104677475640979
+2025-07-14 18:02:36 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+2025-07-14 18:02:36 - DEBUG - Extracted pin ID (description format): 121104677475640979
+2025-07-14 18:02:36 - INFO - Processing pin: 121104677475640979
+2025-07-14 18:02:36 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+2025-07-14 18:02:37 - DEBUG - Navigating to pin page
+2025-07-14 18:02:37 - ERROR - Error extracting image URL: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pinterest.com/pin/australia-visa-success--121104677475640979/
+Call log:
+  - navigating to "https://www.pinterest.com/pin/australia-visa-success--121104677475640979/", waiting until "load"
+
+2025-07-14 18:02:37 - ERROR - Could not extract image URL for pin 121104677475640979
+2025-07-14 18:02:38 - INFO - === MULTI-LEVEL SCRAPING COMPLETED ===
+2025-07-14 18:02:38 - INFO - Duration: 0:10:12.675415
+2025-07-14 18:02:38 - INFO - Main pins found: 16
+2025-07-14 18:02:38 - INFO - Similar pins found: 25
+2025-07-14 18:02:38 - INFO - Total unique pins: 41
+2025-07-14 18:02:38 - INFO - Successful downloads: 0
+2025-07-14 18:02:38 - INFO - Skipped duplicates: 0
+2025-07-14 18:02:38 - INFO - Failed downloads: 41
+2025-07-14 18:02:38 - INFO - Total processed pins in history: 418

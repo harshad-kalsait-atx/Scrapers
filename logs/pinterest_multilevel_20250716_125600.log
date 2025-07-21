@@ -1,0 +1,77 @@
+2025-07-16 12:56:00 - INFO - Logging initialized. Log file: logs\pinterest_multilevel_20250716_125600.log
+2025-07-16 12:56:00 - INFO - Loaded 139 processed pins from history
+2025-07-16 12:56:00 - INFO - Pinterest Multi-Level Scraper initialized
+2025-07-16 12:56:00 - INFO - Found 139 previously processed pins
+2025-07-16 12:56:00 - INFO - 🚀 Starting Pinterest Multi-Level Scraper
+2025-07-16 12:56:00 - INFO - Keyword: 'nature landscape', Main pins: 10, Similar per main: 5
+2025-07-16 12:56:00 - INFO - 🚀 Starting pin collection
+2025-07-16 12:56:00 - INFO - 🔍 STEP 1: Getting 10 NEW main pins for keyword: 'nature landscape'
+2025-07-16 12:56:00 - DEBUG - Search URL: https://www.pinterest.com/search/pins/?q=nature+landscape
+2025-07-16 12:56:02 - INFO - Navigating to search page
+2025-07-16 12:56:06 - INFO - Waiting for page to fully load...
+2025-07-16 12:56:06 - DEBUG - Waiting for page to be fully loaded...
+2025-07-16 12:56:06 - DEBUG - DOM content loaded
+2025-07-16 12:56:13 - DEBUG - Network idle achieved
+2025-07-16 12:56:14 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-16 12:56:19 - DEBUG - Page loading complete
+2025-07-16 12:56:24 - DEBUG - Scrolling to load more pins (scroll #1)
+2025-07-16 12:56:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6966574420127038/
+2025-07-16 12:56:28 - DEBUG - Extracted pin ID (standard format): 6966574420127038
+2025-07-16 12:56:28 - DEBUG - Found NEW pin 1/10: 6966574420127038
+2025-07-16 12:56:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6966574420127038/
+2025-07-16 12:56:28 - DEBUG - Extracted pin ID (standard format): 6966574420127038
+2025-07-16 12:56:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6473993211607849/
+2025-07-16 12:56:28 - DEBUG - Extracted pin ID (standard format): 6473993211607849
+2025-07-16 12:56:28 - DEBUG - Found NEW pin 2/10: 6473993211607849
+2025-07-16 12:56:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6473993211607849/
+2025-07-16 12:56:28 - DEBUG - Extracted pin ID (standard format): 6473993211607849
+2025-07-16 12:56:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/15621929951861725/
+2025-07-16 12:56:28 - DEBUG - Extracted pin ID (standard format): 15621929951861725
+2025-07-16 12:56:28 - DEBUG - Found NEW pin 3/10: 15621929951861725
+2025-07-16 12:56:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/15621929951861725/
+2025-07-16 12:56:28 - DEBUG - Extracted pin ID (standard format): 15621929951861725
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57561701484104822/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 57561701484104822
+2025-07-16 12:56:29 - DEBUG - Found NEW pin 4/10: 57561701484104822
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57561701484104822/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 57561701484104822
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/116530709104957481/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 116530709104957481
+2025-07-16 12:56:29 - DEBUG - Found NEW pin 5/10: 116530709104957481
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/116530709104957481/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 116530709104957481
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20266267057672373/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 20266267057672373
+2025-07-16 12:56:29 - DEBUG - Found NEW pin 6/10: 20266267057672373
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20266267057672373/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 20266267057672373
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2111131072285599/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 2111131072285599
+2025-07-16 12:56:29 - DEBUG - Found NEW pin 7/10: 2111131072285599
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2111131072285599/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 2111131072285599
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/45387908740014049/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 45387908740014049
+2025-07-16 12:56:29 - DEBUG - Found NEW pin 8/10: 45387908740014049
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/45387908740014049/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 45387908740014049
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/422281207303841/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 422281207303841
+2025-07-16 12:56:29 - DEBUG - Found NEW pin 9/10: 422281207303841
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/422281207303841/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 422281207303841
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/34973334601087138/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 34973334601087138
+2025-07-16 12:56:29 - DEBUG - Found NEW pin 10/10: 34973334601087138
+2025-07-16 12:56:29 - DEBUG - Total pins on page: 70, NEW pins found: 10/10
+2025-07-16 12:56:29 - INFO - ✅ Successfully extracted 10 NEW main pin URLs
+2025-07-16 12:56:29 - INFO - 🔍 STEP 2: Getting 5 NEW similar pins from each of 10 main pins
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6966574420127038/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 6966574420127038
+2025-07-16 12:56:29 - INFO - Processing main pin 1/10: 6966574420127038
+2025-07-16 12:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6966574420127038/
+2025-07-16 12:56:29 - DEBUG - Extracted pin ID (standard format): 6966574420127038
+2025-07-16 12:56:29 - DEBUG - Getting 5 NEW similar pins from pin 6966574420127038
+2025-07-16 12:56:31 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/6966574420127038/
+2025-07-16 12:56:35 - DEBUG - Waiting for page to be fully loaded...
+2025-07-16 12:56:35 - DEBUG - DOM content loaded

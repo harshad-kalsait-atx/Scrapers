@@ -1,0 +1,201 @@
+2025-07-07 20:38:51 - ScribdScraper - INFO - setup_logging:45 - Logging started - Log file: logs\scribd_scraper_20250707_203851.log
+2025-07-07 20:38:51 - ScribdScraper - INFO - setup_logging:46 - Script started at 2025-07-07 20:38:51.409197
+2025-07-07 20:38:51 - ScribdScraper - INFO - run:355 - Starting scraping process for query: 'India Insurance application' with max_docs: 10
+2025-07-07 20:38:51 - ScribdScraper - INFO - search_google_for_scribd:187 - Starting Google search for query: 'India Insurance application', max_documents: 10
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/338227142/United-India-Insurance-Agent-Joining-Form-I-A-docx
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/316683632/Forms-1A
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/389234067/Health-Insurance-Application-Form
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/471462854/KYC-FORM
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/434121697/omnamashivaya
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/698629552/Application-For-Insurance-Transfer-4
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/132863192/LICAAO-1954072
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/521821782/Job-Card
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/681041590/FormA
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/680818204/ApplicationForm-10
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/624732332/Simplified-Application-Form-Ver-1-1-tcm47-64795
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/549304912/Agent-Application-Form-NIA
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/667799785/Fire-Insurance-Application-Form
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/316679320/Forms-1B
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/130522624/Common-Application
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/411410052/Claim-Household
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://fr.scribd.com/document/205082709/IRDA-Form
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://translate.google.com/translate
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/802471507/Annexure-I-Application-Form-for-MCA
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/352590248/steps-for-appointment-of-insurance-agents
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://fr.scribd.com/document/597020521/Proposal-Form-New-India-Mediclaim-Policy-01102021
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/561344285/AP-39-TT-1143
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/372436494/Request-Transfer
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://ru.scribd.com/document/338227142/United-India-Insurance-Agent-Joining-Form-I-A-docx
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/816444910/Life-Insurance-Corporation-of-India-Recruitment-of-Assistant-Application-Form
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/641580003/Untitled
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://de.scribd.com/document/332159511/516400052125-ProposalDetails
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/697882208/0918013123-p-108885312
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/689934700/UIICHdfc-claimform
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/635405629/Agriculture-Insurance-Company-of-India-Limited-Management-Trainee-Posts-Notification
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/432122846/Application-Form
+2025-07-07 20:39:11 - ScribdScraper - INFO - search_google_for_scribd:228 - Found 31 total Scribd documents in 20.58 seconds
+2025-07-07 20:39:12 - ScribdScraper - INFO - run:366 - Found 31 total documents to check
+2025-07-07 20:39:12 - ScribdScraper - INFO - run:377 - Checking document 1/31: https://www.scribd.com/document/338227142/United-India-Insurance-Agent-Joining-Form-I-A-docx
+2025-07-07 20:39:12 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 338227142 as processed
+2025-07-07 20:39:14 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [1] Processing doc_id 338227142
+2025-07-07 20:39:14 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/338227142/content
+2025-07-07 20:39:20 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:39:20 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:39:24 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 13 pages
+2025-07-07 20:39:24 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:39:25 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:39:26 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-07 20:39:26 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-07 20:39:26 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 5
+2025-07-07 20:39:26 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 7
+2025-07-07 20:39:26 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 9
+2025-07-07 20:39:27 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 11
+2025-07-07 20:39:27 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_338227142.pdf
+2025-07-07 20:39:27 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [1] Successfully processed and saved doc_id 338227142
+2025-07-07 20:39:29 - ScribdScraper - INFO - run:382 - Progress: 1/10 documents processed
+2025-07-07 20:39:29 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:39:34 - ScribdScraper - INFO - run:377 - Checking document 2/31: https://www.scribd.com/document/316683632/Forms-1A
+2025-07-07 20:39:34 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 316683632 as processed
+2025-07-07 20:39:35 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [2] Processing doc_id 316683632
+2025-07-07 20:39:35 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/316683632/content
+2025-07-07 20:39:41 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:39:41 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:39:44 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 10 pages
+2025-07-07 20:39:44 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:39:46 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:39:48 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-07 20:39:48 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-07 20:39:49 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 5
+2025-07-07 20:39:49 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 7
+2025-07-07 20:39:49 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_316683632.pdf
+2025-07-07 20:39:49 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [2] Successfully processed and saved doc_id 316683632
+2025-07-07 20:39:58 - ScribdScraper - INFO - run:382 - Progress: 2/10 documents processed
+2025-07-07 20:39:58 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:40:03 - ScribdScraper - INFO - run:377 - Checking document 3/31: https://www.scribd.com/document/389234067/Health-Insurance-Application-Form
+2025-07-07 20:40:03 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 389234067 as processed
+2025-07-07 20:40:05 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [3] Processing doc_id 389234067
+2025-07-07 20:40:05 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/389234067/content
+2025-07-07 20:40:09 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:40:09 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:40:12 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 8 pages
+2025-07-07 20:40:12 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:40:13 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:40:16 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-07 20:40:16 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_389234067.pdf
+2025-07-07 20:40:16 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [3] Successfully processed and saved doc_id 389234067
+2025-07-07 20:40:19 - ScribdScraper - INFO - run:382 - Progress: 3/10 documents processed
+2025-07-07 20:40:19 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:40:24 - ScribdScraper - INFO - run:377 - Checking document 4/31: https://www.scribd.com/document/471462854/KYC-FORM
+2025-07-07 20:40:24 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 471462854 as processed
+2025-07-07 20:40:26 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [4] Processing doc_id 471462854
+2025-07-07 20:40:26 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/471462854/content
+2025-07-07 20:40:30 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:40:30 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:40:32 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 6 pages
+2025-07-07 20:40:32 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:40:33 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:40:34 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-07 20:40:35 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-07 20:40:35 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_471462854.pdf
+2025-07-07 20:40:35 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [4] Successfully processed and saved doc_id 471462854
+2025-07-07 20:40:37 - ScribdScraper - INFO - run:382 - Progress: 4/10 documents processed
+2025-07-07 20:40:37 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:40:42 - ScribdScraper - INFO - run:377 - Checking document 5/31: https://www.scribd.com/document/434121697/omnamashivaya
+2025-07-07 20:40:42 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 434121697 as processed
+2025-07-07 20:40:46 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [5] Processing doc_id 434121697
+2025-07-07 20:40:46 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/434121697/content
+2025-07-07 20:40:52 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:40:52 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:41:03 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 23 pages
+2025-07-07 20:41:03 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:41:04 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:41:09 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-07 20:41:10 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 8
+2025-07-07 20:41:10 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 10
+2025-07-07 20:41:10 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 12
+2025-07-07 20:41:10 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 14
+2025-07-07 20:41:10 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 16
+2025-07-07 20:41:10 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 18
+2025-07-07 20:41:11 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 20
+2025-07-07 20:41:11 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 22
+2025-07-07 20:41:11 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 24
+2025-07-07 20:41:11 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_434121697.pdf
+2025-07-07 20:41:11 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [5] Successfully processed and saved doc_id 434121697
+2025-07-07 20:41:13 - ScribdScraper - INFO - run:382 - Progress: 5/10 documents processed
+2025-07-07 20:41:13 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:41:18 - ScribdScraper - INFO - run:377 - Checking document 6/31: https://www.scribd.com/document/698629552/Application-For-Insurance-Transfer-4
+2025-07-07 20:41:18 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 698629552 as processed
+2025-07-07 20:41:21 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [6] Processing doc_id 698629552
+2025-07-07 20:41:21 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/698629552/content
+2025-07-07 20:41:28 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:41:28 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:41:31 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 6 pages
+2025-07-07 20:41:31 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:41:32 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:41:33 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_698629552.pdf
+2025-07-07 20:41:33 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [6] Successfully processed and saved doc_id 698629552
+2025-07-07 20:41:39 - ScribdScraper - INFO - run:382 - Progress: 6/10 documents processed
+2025-07-07 20:41:39 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:41:44 - ScribdScraper - INFO - run:377 - Checking document 7/31: https://www.scribd.com/document/132863192/LICAAO-1954072
+2025-07-07 20:41:44 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 132863192 as processed
+2025-07-07 20:41:47 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [7] Processing doc_id 132863192
+2025-07-07 20:41:47 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/132863192/content
+2025-07-07 20:41:51 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:41:51 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:41:54 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 10 pages
+2025-07-07 20:41:54 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:41:55 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:41:56 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_132863192.pdf
+2025-07-07 20:41:56 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [7] Successfully processed and saved doc_id 132863192
+2025-07-07 20:41:59 - ScribdScraper - INFO - run:382 - Progress: 7/10 documents processed
+2025-07-07 20:41:59 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:42:04 - ScribdScraper - INFO - run:377 - Checking document 8/31: https://www.scribd.com/document/521821782/Job-Card
+2025-07-07 20:42:04 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 521821782 as processed
+2025-07-07 20:42:05 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [8] Processing doc_id 521821782
+2025-07-07 20:42:05 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/521821782/content
+2025-07-07 20:42:11 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:42:11 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:43:27 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 226 pages
+2025-07-07 20:43:27 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:43:29 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:44:12 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_521821782.pdf
+2025-07-07 20:44:12 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [8] Successfully processed and saved doc_id 521821782
+2025-07-07 20:44:16 - ScribdScraper - INFO - run:382 - Progress: 8/10 documents processed
+2025-07-07 20:44:16 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:44:21 - ScribdScraper - INFO - run:377 - Checking document 9/31: https://www.scribd.com/document/681041590/FormA
+2025-07-07 20:44:21 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 681041590 as processed
+2025-07-07 20:44:22 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [9] Processing doc_id 681041590
+2025-07-07 20:44:22 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/681041590/content
+2025-07-07 20:44:27 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:44:27 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:44:31 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 10 pages
+2025-07-07 20:44:31 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:44:32 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:44:32 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-07 20:44:32 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-07 20:44:32 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 5
+2025-07-07 20:44:32 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 7
+2025-07-07 20:44:32 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_681041590.pdf
+2025-07-07 20:44:32 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [9] Successfully processed and saved doc_id 681041590
+2025-07-07 20:44:35 - ScribdScraper - INFO - run:382 - Progress: 9/10 documents processed
+2025-07-07 20:44:35 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-07 20:44:40 - ScribdScraper - INFO - run:377 - Checking document 10/31: https://www.scribd.com/document/680818204/ApplicationForm-10
+2025-07-07 20:44:40 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 680818204 as processed
+2025-07-07 20:44:41 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [10] Processing doc_id 680818204
+2025-07-07 20:44:41 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/680818204/content
+2025-07-07 20:44:46 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-07 20:44:46 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-07 20:44:54 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 23 pages
+2025-07-07 20:44:54 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-07 20:44:55 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-07 20:44:59 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 9
+2025-07-07 20:44:59 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 11
+2025-07-07 20:44:59 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 13
+2025-07-07 20:44:59 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 15
+2025-07-07 20:44:59 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 17
+2025-07-07 20:45:00 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\India_Insurance_application_680818204.pdf
+2025-07-07 20:45:00 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [10] Successfully processed and saved doc_id 680818204
+2025-07-07 20:45:02 - ScribdScraper - INFO - run:382 - Progress: 10/10 documents processed
+2025-07-07 20:45:02 - ScribdScraper - INFO - run:374 - Target of 10 documents reached. Stopping search.
+2025-07-07 20:45:02 - ScribdScraper - INFO - run:397 - Successfully processed 10/10 new documents. 0 duplicates were skipped.
+2025-07-07 20:45:02 - ScribdScraper - INFO - run:400 - Scraping process completed: 10 processed, 0 skipped

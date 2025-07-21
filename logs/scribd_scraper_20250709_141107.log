@@ -1,0 +1,6 @@
+2025-07-09 14:11:07 - ScribdScraper - INFO - setup_logging:45 - Logging started - Log file: logs\scribd_scraper_20250709_141107.log
+2025-07-09 14:11:07 - ScribdScraper - INFO - setup_logging:46 - Script started at 2025-07-09 14:11:07.144497
+2025-07-09 14:11:07 - ScribdScraper - INFO - run:355 - Starting scraping process for query: 'cómo consultar CURP México site:scribd.com' with max_docs: 10
+2025-07-09 14:11:07 - ScribdScraper - INFO - search_google_for_scribd:187 - Starting Google search for query: 'cómo consultar CURP México site:scribd.com', max_documents: 10
+2025-07-09 14:11:21 - ScribdScraper - INFO - search_google_for_scribd:228 - Found 0 total Scribd documents in 13.86 seconds
+2025-07-09 14:11:21 - ScribdScraper - WARNING - run:362 - No Scribd documents found.

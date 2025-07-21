@@ -1,0 +1,6 @@
+2025-07-02 10:43:48 - ScribdScraper - INFO - setup_logging:45 - Logging started - Log file: logs\scribd_scraper_20250702_104348.log
+2025-07-02 10:43:48 - ScribdScraper - INFO - setup_logging:46 - Script started at 2025-07-02 10:43:48.693520
+2025-07-02 10:43:48 - ScribdScraper - INFO - run:354 - Starting scraping process for query: 'australia bank statement' with max_docs: 3
+2025-07-02 10:43:48 - ScribdScraper - INFO - search_google_for_scribd:187 - Starting Google search for query: 'australia bank statement', max_documents: 3
+2025-07-02 10:44:19 - ScribdScraper - INFO - search_google_for_scribd:227 - Found 0 Scribd documents in 30.65 seconds
+2025-07-02 10:44:19 - ScribdScraper - WARNING - run:357 - No Scribd documents found.

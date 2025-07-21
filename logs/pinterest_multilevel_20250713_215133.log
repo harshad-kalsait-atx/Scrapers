@@ -1,0 +1,1562 @@
+2025-07-13 21:51:33 - INFO - Logging initialized. Log file: logs\pinterest_multilevel_20250713_215133.log
+2025-07-13 21:51:33 - INFO - Loaded 163 processed pins from history
+2025-07-13 21:51:33 - INFO - Pinterest Multi-Level Scraper initialized
+2025-07-13 21:51:33 - INFO - Found 163 previously processed pins
+2025-07-13 21:51:33 - INFO - 🚀 Starting Pinterest Multi-Level Scraper
+2025-07-13 21:51:33 - INFO - Keyword: 'Mexico docs', Main pins: 10, Similar per main: 5
+2025-07-13 21:51:33 - INFO - 🚀 Starting pin collection
+2025-07-13 21:51:33 - INFO - 🔍 STEP 1: Getting 10 main pins for keyword: 'Mexico docs'
+2025-07-13 21:51:33 - DEBUG - Search URL: https://www.pinterest.com/search/pins/?q=Mexico+docs
+2025-07-13 21:51:50 - INFO - Navigating to search page
+2025-07-13 21:51:54 - INFO - Setting page zoom to 25%
+2025-07-13 21:51:54 - INFO - Waiting for page to fully load...
+2025-07-13 21:51:54 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:51:54 - DEBUG - DOM content loaded
+2025-07-13 21:52:14 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:52:14 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:52:16 - DEBUG - Page loading complete
+2025-07-13 21:52:20 - DEBUG - Extracting main pin URLs from search page
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/210543351620708794/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 210543351620708794
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/210543351620708794/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 210543351620708794
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673053633/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 844493673053633
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673053633/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 844493673053633
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 763852786840439935
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 763852786840439935
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 653444227202441927
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 653444227202441927
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672599093/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 844493672599093
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672599093/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 844493672599093
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/119486196357952095/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 119486196357952095
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/119486196357952095/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 119486196357952095
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/37788084368666521/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 37788084368666521
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/37788084368666521/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 37788084368666521
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 7459155629561612
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 7459155629561612
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 281543724958877
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 281543724958877
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/140806233531554/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 140806233531554
+2025-07-13 21:52:20 - INFO - ✅ Successfully extracted 10 main pin URLs
+2025-07-13 21:52:20 - INFO - 🔍 STEP 2: Getting similar pins from 10 main pins
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/210543351620708794/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 210543351620708794
+2025-07-13 21:52:20 - INFO - Processing main pin 1/10: 210543351620708794
+2025-07-13 21:52:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/210543351620708794/
+2025-07-13 21:52:20 - DEBUG - Extracted pin ID (standard format): 210543351620708794
+2025-07-13 21:52:20 - DEBUG - Getting similar pins from pin 210543351620708794
+2025-07-13 21:52:21 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/210543351620708794/
+2025-07-13 21:52:23 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:52:23 - DEBUG - DOM content loaded
+2025-07-13 21:52:43 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:52:43 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:52:45 - DEBUG - Page loading complete
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/210543351620708794/repin/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 210543351620708794
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672770241/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 844493672770241
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672770241/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 844493672770241
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/maroon-doc-martens-mens-size-11--119415827613897725/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 119415827613897725
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/maroon-doc-martens-mens-size-11--119415827613897725/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 119415827613897725
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1970393582456838/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 1970393582456838
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1970393582456838/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 1970393582456838
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57561701484260178/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 57561701484260178
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57561701484260178/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 57561701484260178
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675647247/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 844493675647247
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675647247/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 844493675647247
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--844493675290234/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 844493675290234
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--844493675290234/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 844493675290234
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/40954677857869319/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 40954677857869319
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/40954677857869319/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 40954677857869319
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-cherry-red-vegan-boots-docmartens--266979084136236161/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 266979084136236161
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-cherry-red-vegan-boots-docmartens--266979084136236161/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 266979084136236161
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351912466462651/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 351912466462651
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351912466462651/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 351912466462651
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/76983474877209216/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 76983474877209216
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/76983474877209216/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (standard format): 76983474877209216
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-1460-vegan-leather-boot-cherry-red--1064749537060444788/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 1064749537060444788
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-1460-vegan-leather-boot-cherry-red--1064749537060444788/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 1064749537060444788
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens--844493672549177/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 844493672549177
+2025-07-13 21:52:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens--844493672549177/
+2025-07-13 21:52:47 - DEBUG - Extracted pin ID (description format): 844493672549177
+2025-07-13 21:52:50 - DEBUG - Found 5 similar pins for pin 210543351620708794
+2025-07-13 21:52:50 - DEBUG - Added 5 new similar pins from main pin 210543351620708794
+2025-07-13 21:52:51 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673053633/
+2025-07-13 21:52:51 - DEBUG - Extracted pin ID (standard format): 844493673053633
+2025-07-13 21:52:51 - INFO - Processing main pin 2/10: 844493673053633
+2025-07-13 21:52:51 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673053633/
+2025-07-13 21:52:51 - DEBUG - Extracted pin ID (standard format): 844493673053633
+2025-07-13 21:52:51 - DEBUG - Getting similar pins from pin 844493673053633
+2025-07-13 21:52:52 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/844493673053633/
+2025-07-13 21:52:54 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:52:54 - DEBUG - DOM content loaded
+2025-07-13 21:53:14 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:53:14 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:53:16 - DEBUG - Page loading complete
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673053633/repin/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 844493673053633
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/17099673581816611/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 17099673581816611
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/17099673581816611/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 17099673581816611
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/sndag--7318418139363865/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (description format): 7318418139363865
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/sndag--7318418139363865/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (description format): 7318418139363865
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18295942230489807/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 18295942230489807
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18295942230489807/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 18295942230489807
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493673038417/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (description format): 844493673038417
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493673038417/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (description format): 844493673038417
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/204350901837523665/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 204350901837523665
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/204350901837523665/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 204350901837523665
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/16747829861336043/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 16747829861336043
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/16747829861336043/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 16747829861336043
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/23784704277180844/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 23784704277180844
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/23784704277180844/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 23784704277180844
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675058886/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 844493675058886
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675058886/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 844493675058886
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/68748586109/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 68748586109
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/68748586109/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 68748586109
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/68747561750/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 68747561750
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/68747561750/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 68747561750
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/218213544441231422/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 218213544441231422
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/218213544441231422/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 218213544441231422
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/martens-in-2025--5629568278826472/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (description format): 5629568278826472
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/martens-in-2025--5629568278826472/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (description format): 5629568278826472
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675287745/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 844493675287745
+2025-07-13 21:53:18 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675287745/
+2025-07-13 21:53:18 - DEBUG - Extracted pin ID (standard format): 844493675287745
+2025-07-13 21:53:21 - DEBUG - Found 5 similar pins for pin 844493673053633
+2025-07-13 21:53:22 - DEBUG - Added 5 new similar pins from main pin 844493673053633
+2025-07-13 21:53:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 21:53:23 - DEBUG - Extracted pin ID (standard format): 763852786840439935
+2025-07-13 21:53:23 - INFO - Processing main pin 3/10: 763852786840439935
+2025-07-13 21:53:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 21:53:23 - DEBUG - Extracted pin ID (standard format): 763852786840439935
+2025-07-13 21:53:23 - DEBUG - Getting similar pins from pin 763852786840439935
+2025-07-13 21:53:24 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 21:53:25 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:53:25 - DEBUG - DOM content loaded
+2025-07-13 21:53:45 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:53:45 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:53:47 - DEBUG - Page loading complete
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/763852786840439935/repin/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 763852786840439935
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/920915823820400157/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 920915823820400157
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/920915823820400157/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 920915823820400157
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7036943162208585/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 7036943162208585
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7036943162208585/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 7036943162208585
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/25332816648005997/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 25332816648005997
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/25332816648005997/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 25332816648005997
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/in-2023--844493672944206/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (description format): 844493672944206
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/in-2023--844493672944206/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (description format): 844493672944206
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868558358811/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 2251868558358811
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868558358811/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 2251868558358811
+2025-07-13 21:53:49 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/145593000449411527/
+2025-07-13 21:53:49 - DEBUG - Extracted pin ID (standard format): 145593000449411527
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/145593000449411527/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 145593000449411527
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/31454897393032420/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 31454897393032420
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/31454897393032420/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 31454897393032420
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18295942230489807/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 18295942230489807
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18295942230489807/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 18295942230489807
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1548181181634169/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 1548181181634169
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1548181181634169/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 1548181181634169
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/563018697099707/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 563018697099707
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/563018697099707/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 563018697099707
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/fits--14988611252875287/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 14988611252875287
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/fits--14988611252875287/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 14988611252875287
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/brand-new-doc-martens--1548181163817914/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 1548181163817914
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/brand-new-doc-martens--1548181163817914/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 1548181163817914
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/boots--35254809575340078/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 35254809575340078
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/boots--35254809575340078/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 35254809575340078
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/11822017766596504/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 11822017766596504
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/11822017766596504/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 11822017766596504
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/151785449936741171/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 151785449936741171
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/151785449936741171/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 151785449936741171
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/winter-boots--122723158590121226/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 122723158590121226
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/winter-boots--122723158590121226/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (description format): 122723158590121226
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1125968651317011/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 1125968651317011
+2025-07-13 21:53:50 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1125968651317011/
+2025-07-13 21:53:50 - DEBUG - Extracted pin ID (standard format): 1125968651317011
+2025-07-13 21:53:53 - DEBUG - Found 5 similar pins for pin 763852786840439935
+2025-07-13 21:53:53 - DEBUG - Added 5 new similar pins from main pin 763852786840439935
+2025-07-13 21:53:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:53:54 - DEBUG - Extracted pin ID (standard format): 653444227202441927
+2025-07-13 21:53:54 - INFO - Processing main pin 4/10: 653444227202441927
+2025-07-13 21:53:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:53:54 - DEBUG - Extracted pin ID (standard format): 653444227202441927
+2025-07-13 21:53:54 - DEBUG - Getting similar pins from pin 653444227202441927
+2025-07-13 21:53:56 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:53:57 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:53:57 - DEBUG - DOM content loaded
+2025-07-13 21:54:17 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:54:18 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:54:20 - DEBUG - Page loading complete
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/653444227202441927/repin/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 653444227202441927
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/42925002692745136/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 42925002692745136
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/42925002692745136/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 42925002692745136
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/73605775154862862/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 73605775154862862
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/73605775154862862/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 73605775154862862
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/11047961581707535/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 11047961581707535
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/11047961581707535/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 11047961581707535
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/just-aesthetics--96194142036279652/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (description format): 96194142036279652
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/just-aesthetics--96194142036279652/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (description format): 96194142036279652
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/15199717491124077/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 15199717491124077
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/15199717491124077/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 15199717491124077
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/33073378510008567/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 33073378510008567
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/33073378510008567/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 33073378510008567
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6262886977226900/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 6262886977226900
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6262886977226900/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 6262886977226900
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/958774208176957751/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 958774208176957751
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/958774208176957751/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 958774208176957751
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351703052172190248/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 351703052172190248
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351703052172190248/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 351703052172190248
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/67131850691282681/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 67131850691282681
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/67131850691282681/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 67131850691282681
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2533343537543218/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 2533343537543218
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2533343537543218/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 2533343537543218
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/225743000068548541/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 225743000068548541
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/225743000068548541/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 225743000068548541
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/jacks-collection-in-2024--22799541857793275/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (description format): 22799541857793275
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/jacks-collection-in-2024--22799541857793275/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (description format): 22799541857793275
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/70087337949274306/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 70087337949274306
+2025-07-13 21:54:22 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/70087337949274306/
+2025-07-13 21:54:22 - DEBUG - Extracted pin ID (standard format): 70087337949274306
+2025-07-13 21:54:25 - DEBUG - Found 5 similar pins for pin 653444227202441927
+2025-07-13 21:54:25 - DEBUG - Added 5 new similar pins from main pin 653444227202441927
+2025-07-13 21:54:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672599093/
+2025-07-13 21:54:26 - DEBUG - Extracted pin ID (standard format): 844493672599093
+2025-07-13 21:54:26 - INFO - Processing main pin 5/10: 844493672599093
+2025-07-13 21:54:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672599093/
+2025-07-13 21:54:26 - DEBUG - Extracted pin ID (standard format): 844493672599093
+2025-07-13 21:54:26 - DEBUG - Getting similar pins from pin 844493672599093
+2025-07-13 21:54:27 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/844493672599093/
+2025-07-13 21:54:30 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:54:30 - DEBUG - DOM content loaded
+2025-07-13 21:54:50 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:54:50 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:54:52 - DEBUG - Page loading complete
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672599093/repin/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 844493672599093
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20969954511686421/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 20969954511686421
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20969954511686421/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 20969954511686421
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57139489017200072/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 57139489017200072
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57139489017200072/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 57139489017200072
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2181499812591705/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 2181499812591705
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2181499812591705/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 2181499812591705
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens--844493672561241/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (description format): 844493672561241
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens--844493672561241/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (description format): 844493672561241
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673011729/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 844493673011729
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673011729/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 844493673011729
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/60235713760233863/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 60235713760233863
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/60235713760233863/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 60235713760233863
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/my-style-in-2025--15551561209026788/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (description format): 15551561209026788
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/my-style-in-2025--15551561209026788/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (description format): 15551561209026788
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1548181181634169/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 1548181181634169
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1548181181634169/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 1548181181634169
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351912466462651/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 351912466462651
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351912466462651/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 351912466462651
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/149041068913695270/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 149041068913695270
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/149041068913695270/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 149041068913695270
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/151785449936741171/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 151785449936741171
+2025-07-13 21:54:54 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/151785449936741171/
+2025-07-13 21:54:54 - DEBUG - Extracted pin ID (standard format): 151785449936741171
+2025-07-13 21:54:57 - DEBUG - Found 5 similar pins for pin 844493672599093
+2025-07-13 21:54:57 - DEBUG - Added 5 new similar pins from main pin 844493672599093
+2025-07-13 21:54:58 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/119486196357952095/
+2025-07-13 21:54:58 - DEBUG - Extracted pin ID (standard format): 119486196357952095
+2025-07-13 21:54:58 - INFO - Processing main pin 6/10: 119486196357952095
+2025-07-13 21:54:58 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/119486196357952095/
+2025-07-13 21:54:58 - DEBUG - Extracted pin ID (standard format): 119486196357952095
+2025-07-13 21:54:58 - DEBUG - Getting similar pins from pin 119486196357952095
+2025-07-13 21:55:00 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/119486196357952095/
+2025-07-13 21:55:01 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:55:01 - DEBUG - DOM content loaded
+2025-07-13 21:55:21 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:55:21 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:55:23 - DEBUG - Page loading complete
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/119486196357952095/repin/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 119486196357952095
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4996249582255951/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 4996249582255951
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4996249582255951/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 4996249582255951
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14918242511288478/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 14918242511288478
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14918242511288478/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 14918242511288478
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/162200024073142434/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 162200024073142434
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/162200024073142434/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 162200024073142434
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/28640147624825778/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 28640147624825778
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/28640147624825778/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 28640147624825778
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/onitsuka-tiger-mexico-66--27092035255832253/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (description format): 27092035255832253
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/onitsuka-tiger-mexico-66--27092035255832253/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (description format): 27092035255832253
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/estilo--59954238825986770/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (description format): 59954238825986770
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/estilo--59954238825986770/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (description format): 59954238825986770
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/23010648091046482/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 23010648091046482
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/23010648091046482/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 23010648091046482
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/56154326597725274/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 56154326597725274
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/56154326597725274/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (standard format): 56154326597725274
+2025-07-13 21:55:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/shoes--3307399720446339/
+2025-07-13 21:55:25 - DEBUG - Extracted pin ID (description format): 3307399720446339
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/shoes--3307399720446339/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (description format): 3307399720446339
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/200762095883028531/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 200762095883028531
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/200762095883028531/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 200762095883028531
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4714774604126418/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 4714774604126418
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4714774604126418/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 4714774604126418
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2111131072179238/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 2111131072179238
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2111131072179238/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 2111131072179238
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/296745062967606309/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 296745062967606309
+2025-07-13 21:55:26 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/296745062967606309/
+2025-07-13 21:55:26 - DEBUG - Extracted pin ID (standard format): 296745062967606309
+2025-07-13 21:55:29 - DEBUG - Found 5 similar pins for pin 119486196357952095
+2025-07-13 21:55:29 - DEBUG - Added 5 new similar pins from main pin 119486196357952095
+2025-07-13 21:55:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/37788084368666521/
+2025-07-13 21:55:30 - DEBUG - Extracted pin ID (standard format): 37788084368666521
+2025-07-13 21:55:30 - INFO - Processing main pin 7/10: 37788084368666521
+2025-07-13 21:55:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/37788084368666521/
+2025-07-13 21:55:30 - DEBUG - Extracted pin ID (standard format): 37788084368666521
+2025-07-13 21:55:30 - DEBUG - Getting similar pins from pin 37788084368666521
+2025-07-13 21:55:31 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/37788084368666521/
+2025-07-13 21:55:33 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:55:33 - DEBUG - DOM content loaded
+2025-07-13 21:55:38 - DEBUG - Network idle achieved
+2025-07-13 21:55:38 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:55:40 - DEBUG - Page loading complete
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/37788084368666521/repin/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 37788084368666521
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/117375134031226703/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 117375134031226703
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/117375134031226703/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 117375134031226703
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2533343537430972/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 2533343537430972
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2533343537430972/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 2533343537430972
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14144186325050769/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 14144186325050769
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14144186325050769/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 14144186325050769
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868557900753/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 2251868557900753
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868557900753/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 2251868557900753
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/36169603252951848/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 36169603252951848
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/36169603252951848/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 36169603252951848
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/29484572556589497/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 29484572556589497
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/29484572556589497/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 29484572556589497
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/el-telar-de-cintura-tradicin-milenaria-que-sigue-viva-mxico-desconocido-in-2024--13229392651635170/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (description format): 13229392651635170
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/el-telar-de-cintura-tradicin-milenaria-que-sigue-viva-mxico-desconocido-in-2024--13229392651635170/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (description format): 13229392651635170
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20130319_0239--1407443611878464/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (description format): 1407443611878464
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20130319_0239--1407443611878464/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (description format): 1407443611878464
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/9359111721626896/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 9359111721626896
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/9359111721626896/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 9359111721626896
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/131026670404566080/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 131026670404566080
+2025-07-13 21:55:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/131026670404566080/
+2025-07-13 21:55:42 - DEBUG - Extracted pin ID (standard format): 131026670404566080
+2025-07-13 21:55:42 - DEBUG - Found 5 similar pins for pin 37788084368666521
+2025-07-13 21:55:42 - DEBUG - Added 5 new similar pins from main pin 37788084368666521
+2025-07-13 21:55:43 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:55:43 - DEBUG - Extracted pin ID (standard format): 7459155629561612
+2025-07-13 21:55:43 - INFO - Processing main pin 8/10: 7459155629561612
+2025-07-13 21:55:43 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:55:43 - DEBUG - Extracted pin ID (standard format): 7459155629561612
+2025-07-13 21:55:43 - DEBUG - Getting similar pins from pin 7459155629561612
+2025-07-13 21:55:45 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:55:46 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:55:46 - DEBUG - DOM content loaded
+2025-07-13 21:55:52 - DEBUG - Network idle achieved
+2025-07-13 21:55:52 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:55:54 - DEBUG - Page loading complete
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7459155629561612/repin/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 7459155629561612
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2744449769058928/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 2744449769058928
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2744449769058928/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 2744449769058928
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/early-fall-outfit-in-2025--844493674961150/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (description format): 844493674961150
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/early-fall-outfit-in-2025--844493674961150/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (description format): 844493674961150
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--6685099441480448/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (description format): 6685099441480448
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--6685099441480448/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (description format): 6685099441480448
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14073817580650026/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 14073817580650026
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14073817580650026/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 14073817580650026
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--844493675290234/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (description format): 844493675290234
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--844493675290234/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (description format): 844493675290234
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/422281211756372/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 422281211756372
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/422281211756372/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 422281211756372
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675212243/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 844493675212243
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675212243/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 844493675212243
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/422281211786861/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 422281211786861
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/422281211786861/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 422281211786861
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/49610033390690264/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 49610033390690264
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/49610033390690264/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 49610033390690264
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/360710251424306549/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 360710251424306549
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/360710251424306549/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 360710251424306549
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/139048707239645760/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 139048707239645760
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/139048707239645760/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 139048707239645760
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4996249583075769/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 4996249583075769
+2025-07-13 21:55:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4996249583075769/
+2025-07-13 21:55:56 - DEBUG - Extracted pin ID (standard format): 4996249583075769
+2025-07-13 21:55:56 - DEBUG - Found 5 similar pins for pin 7459155629561612
+2025-07-13 21:55:56 - DEBUG - Added 5 new similar pins from main pin 7459155629561612
+2025-07-13 21:55:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 21:55:57 - DEBUG - Extracted pin ID (standard format): 281543724958877
+2025-07-13 21:55:57 - INFO - Processing main pin 9/10: 281543724958877
+2025-07-13 21:55:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 21:55:57 - DEBUG - Extracted pin ID (standard format): 281543724958877
+2025-07-13 21:55:57 - DEBUG - Getting similar pins from pin 281543724958877
+2025-07-13 21:55:59 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 21:56:00 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:56:00 - DEBUG - DOM content loaded
+2025-07-13 21:56:20 - DEBUG - Network idle timeout: Timeout 20000ms exceeded.
+2025-07-13 21:56:20 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:56:22 - DEBUG - Page loading complete
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543724958877/repin/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 281543724958877
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57139489017200072/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 57139489017200072
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57139489017200072/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 57139489017200072
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1196337403408057/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 1196337403408057
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1196337403408057/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 1196337403408057
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/33565959717962168/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 33565959717962168
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/33565959717962168/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 33565959717962168
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493663678077/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 844493663678077
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493663678077/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 844493663678077
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6473993211552282/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 6473993211552282
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6473993211552282/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 6473993211552282
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493672646452/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (description format): 844493672646452
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493672646452/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (description format): 844493672646452
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493674915890/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 844493674915890
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493674915890/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 844493674915890
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/5--563018697083139/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (description format): 563018697083139
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/5--563018697083139/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (description format): 563018697083139
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2040762328215262/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 2040762328215262
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2040762328215262/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 2040762328215262
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351912466462651/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 351912466462651
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/351912466462651/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 351912466462651
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493672890298/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (description format): 844493672890298
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493672890298/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (description format): 844493672890298
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543725043573/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 281543725043573
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543725043573/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 281543725043573
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3940718419568023/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 3940718419568023
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3940718419568023/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 3940718419568023
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/12947917674881240/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 12947917674881240
+2025-07-13 21:56:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/12947917674881240/
+2025-07-13 21:56:24 - DEBUG - Extracted pin ID (standard format): 12947917674881240
+2025-07-13 21:56:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/8233211828113174/
+2025-07-13 21:56:25 - DEBUG - Extracted pin ID (standard format): 8233211828113174
+2025-07-13 21:56:25 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/8233211828113174/
+2025-07-13 21:56:25 - DEBUG - Extracted pin ID (standard format): 8233211828113174
+2025-07-13 21:56:28 - DEBUG - Found 5 similar pins for pin 281543724958877
+2025-07-13 21:56:28 - DEBUG - Added 4 new similar pins from main pin 281543724958877
+2025-07-13 21:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/140806233531554/
+2025-07-13 21:56:29 - DEBUG - Extracted pin ID (standard format): 140806233531554
+2025-07-13 21:56:29 - INFO - Processing main pin 10/10: 140806233531554
+2025-07-13 21:56:29 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/140806233531554/
+2025-07-13 21:56:29 - DEBUG - Extracted pin ID (standard format): 140806233531554
+2025-07-13 21:56:29 - DEBUG - Getting similar pins from pin 140806233531554
+2025-07-13 21:56:31 - DEBUG - Navigating to pin page: https://www.pinterest.com/pin/140806233531554/
+2025-07-13 21:56:32 - DEBUG - Waiting for page to be fully loaded...
+2025-07-13 21:56:32 - DEBUG - DOM content loaded
+2025-07-13 21:56:41 - DEBUG - Network idle achieved
+2025-07-13 21:56:41 - DEBUG - Found selector: div[data-test-id='pin']
+2025-07-13 21:56:43 - DEBUG - Page loading complete
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/140806233531554/repin/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 140806233531554
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/76561262408661366/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 76561262408661366
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/76561262408661366/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 76561262408661366
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3307399721377919/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 3307399721377919
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3307399721377919/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 3307399721377919
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/8233211828113174/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 8233211828113174
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/8233211828113174/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 8233211828113174
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7951736835071739/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 7951736835071739
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7951736835071739/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 7951736835071739
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/fshn--351912458392067/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (description format): 351912458392067
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/fshn--351912458392067/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (description format): 351912458392067
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/208924870208553409/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 208924870208553409
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/208924870208553409/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 208924870208553409
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/689050811731466945/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 689050811731466945
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/689050811731466945/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 689050811731466945
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/233624299414552278/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 233624299414552278
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/233624299414552278/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 233624299414552278
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/5488830789258206/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 5488830789258206
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/5488830789258206/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 5488830789258206
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543723637327/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 281543723637327
+2025-07-13 21:56:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543723637327/
+2025-07-13 21:56:45 - DEBUG - Extracted pin ID (standard format): 281543723637327
+2025-07-13 21:56:45 - DEBUG - Found 5 similar pins for pin 140806233531554
+2025-07-13 21:56:45 - DEBUG - Added 5 new similar pins from main pin 140806233531554
+2025-07-13 21:56:46 - INFO - ✅ Total unique pins collected: 59
+2025-07-13 21:56:46 - INFO - 🔽 STEP 3: Downloading 59 pins
+2025-07-13 21:56:46 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/15199717491124077/
+2025-07-13 21:56:46 - DEBUG - Extracted pin ID (standard format): 15199717491124077
+2025-07-13 21:56:46 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/15199717491124077/
+2025-07-13 21:56:46 - DEBUG - Extracted pin ID (standard format): 15199717491124077
+2025-07-13 21:56:46 - INFO - Processing pin: 15199717491124077
+2025-07-13 21:56:46 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/15199717491124077/
+2025-07-13 21:56:48 - DEBUG - Navigating to pin page
+2025-07-13 21:56:50 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:56:50 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/a5/1a/33/a51a33a68b84e20dc641ea399b68dc48.jpg
+2025-07-13 21:56:51 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/a5/1a/33/a51a33a68b84e20dc641ea399b68dc48.jpg
+2025-07-13 21:56:51 - DEBUG - Original quality URL available
+2025-07-13 21:56:51 - INFO - Downloading image from: https://i.pinimg.com/736x/a5/1a/33/a51a33a68b84e20dc641ea399b68dc48.jpg
+2025-07-13 21:56:51 - DEBUG - Saved 164 processed pins to history
+2025-07-13 21:56:51 - DEBUG - Marked pin 15199717491124077 as processed
+2025-07-13 21:56:51 - INFO - Successfully downloaded pin 15199717491124077 - Size: 105859 bytes
+2025-07-13 21:56:51 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493663678077/
+2025-07-13 21:56:51 - DEBUG - Extracted pin ID (standard format): 844493663678077
+2025-07-13 21:56:51 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493663678077/
+2025-07-13 21:56:51 - DEBUG - Extracted pin ID (standard format): 844493663678077
+2025-07-13 21:56:51 - INFO - Processing pin: 844493663678077
+2025-07-13 21:56:51 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/844493663678077/
+2025-07-13 21:56:54 - DEBUG - Navigating to pin page
+2025-07-13 21:56:55 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:56:55 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/e1/94/97/e194978a815e7dd7df3b6e662728678c.jpg
+2025-07-13 21:56:56 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/e1/94/97/e194978a815e7dd7df3b6e662728678c.jpg
+2025-07-13 21:56:56 - DEBUG - Original quality URL available
+2025-07-13 21:56:56 - INFO - Downloading image from: https://i.pinimg.com/736x/e1/94/97/e194978a815e7dd7df3b6e662728678c.jpg
+2025-07-13 21:56:56 - DEBUG - Saved 165 processed pins to history
+2025-07-13 21:56:56 - DEBUG - Marked pin 844493663678077 as processed
+2025-07-13 21:56:56 - INFO - Successfully downloaded pin 844493663678077 - Size: 66081 bytes
+2025-07-13 21:56:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/onitsuka-tiger-mexico-66--27092035255832253/
+2025-07-13 21:56:56 - DEBUG - Extracted pin ID (description format): 27092035255832253
+2025-07-13 21:56:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/onitsuka-tiger-mexico-66--27092035255832253/
+2025-07-13 21:56:56 - DEBUG - Extracted pin ID (description format): 27092035255832253
+2025-07-13 21:56:56 - INFO - Processing pin: 27092035255832253
+2025-07-13 21:56:56 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/onitsuka-tiger-mexico-66--27092035255832253/
+2025-07-13 21:56:58 - DEBUG - Navigating to pin page
+2025-07-13 21:57:00 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:00 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/7c/43/ad/7c43ad4ac9cf957694bb5646a5ef6831.jpg
+2025-07-13 21:57:00 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/7c/43/ad/7c43ad4ac9cf957694bb5646a5ef6831.jpg
+2025-07-13 21:57:00 - DEBUG - Original quality URL available
+2025-07-13 21:57:00 - INFO - Downloading image from: https://i.pinimg.com/736x/7c/43/ad/7c43ad4ac9cf957694bb5646a5ef6831.jpg
+2025-07-13 21:57:00 - DEBUG - Saved 166 processed pins to history
+2025-07-13 21:57:00 - DEBUG - Marked pin 27092035255832253 as processed
+2025-07-13 21:57:00 - INFO - Successfully downloaded pin 27092035255832253 - Size: 90943 bytes
+2025-07-13 21:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14144186325050769/
+2025-07-13 21:57:00 - DEBUG - Extracted pin ID (standard format): 14144186325050769
+2025-07-13 21:57:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14144186325050769/
+2025-07-13 21:57:00 - DEBUG - Extracted pin ID (standard format): 14144186325050769
+2025-07-13 21:57:00 - INFO - Processing pin: 14144186325050769
+2025-07-13 21:57:00 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/14144186325050769/
+2025-07-13 21:57:02 - DEBUG - Navigating to pin page
+2025-07-13 21:57:04 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:04 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/08/30/a8/0830a874814e3c45ff1e768c5668294e.jpg
+2025-07-13 21:57:05 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/08/30/a8/0830a874814e3c45ff1e768c5668294e.jpg
+2025-07-13 21:57:05 - DEBUG - Original quality URL available
+2025-07-13 21:57:05 - INFO - Downloading image from: https://i.pinimg.com/736x/08/30/a8/0830a874814e3c45ff1e768c5668294e.jpg
+2025-07-13 21:57:05 - DEBUG - Saved 167 processed pins to history
+2025-07-13 21:57:05 - DEBUG - Marked pin 14144186325050769 as processed
+2025-07-13 21:57:05 - INFO - Successfully downloaded pin 14144186325050769 - Size: 115257 bytes
+2025-07-13 21:57:05 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/42925002692745136/
+2025-07-13 21:57:05 - DEBUG - Extracted pin ID (standard format): 42925002692745136
+2025-07-13 21:57:05 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/42925002692745136/
+2025-07-13 21:57:05 - DEBUG - Extracted pin ID (standard format): 42925002692745136
+2025-07-13 21:57:05 - INFO - Processing pin: 42925002692745136
+2025-07-13 21:57:05 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/42925002692745136/
+2025-07-13 21:57:08 - DEBUG - Navigating to pin page
+2025-07-13 21:57:10 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:11 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/bf/e6/ec/bfe6ecb51cab0fc2e47ca72bac96a4d3.jpg
+2025-07-13 21:57:11 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/bf/e6/ec/bfe6ecb51cab0fc2e47ca72bac96a4d3.jpg
+2025-07-13 21:57:11 - DEBUG - Original quality URL available
+2025-07-13 21:57:11 - INFO - Downloading image from: https://i.pinimg.com/736x/bf/e6/ec/bfe6ecb51cab0fc2e47ca72bac96a4d3.jpg
+2025-07-13 21:57:11 - DEBUG - Saved 168 processed pins to history
+2025-07-13 21:57:11 - DEBUG - Marked pin 42925002692745136 as processed
+2025-07-13 21:57:11 - INFO - Successfully downloaded pin 42925002692745136 - Size: 110401 bytes
+2025-07-13 21:57:12 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/maroon-doc-martens-mens-size-11--119415827613897725/
+2025-07-13 21:57:12 - DEBUG - Extracted pin ID (description format): 119415827613897725
+2025-07-13 21:57:12 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/maroon-doc-martens-mens-size-11--119415827613897725/
+2025-07-13 21:57:12 - DEBUG - Extracted pin ID (description format): 119415827613897725
+2025-07-13 21:57:12 - INFO - Processing pin: 119415827613897725
+2025-07-13 21:57:12 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/maroon-doc-martens-mens-size-11--119415827613897725/
+2025-07-13 21:57:14 - DEBUG - Navigating to pin page
+2025-07-13 21:57:15 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:15 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/82/97/32/829732dd729ed3cef708f4bdaf14e516.jpg
+2025-07-13 21:57:16 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/82/97/32/829732dd729ed3cef708f4bdaf14e516.jpg
+2025-07-13 21:57:16 - DEBUG - Original quality URL available
+2025-07-13 21:57:16 - INFO - Downloading image from: https://i.pinimg.com/736x/82/97/32/829732dd729ed3cef708f4bdaf14e516.jpg
+2025-07-13 21:57:16 - DEBUG - Saved 169 processed pins to history
+2025-07-13 21:57:16 - DEBUG - Marked pin 119415827613897725 as processed
+2025-07-13 21:57:16 - INFO - Successfully downloaded pin 119415827613897725 - Size: 54246 bytes
+2025-07-13 21:57:17 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/73605775154862862/
+2025-07-13 21:57:17 - DEBUG - Extracted pin ID (standard format): 73605775154862862
+2025-07-13 21:57:17 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/73605775154862862/
+2025-07-13 21:57:17 - DEBUG - Extracted pin ID (standard format): 73605775154862862
+2025-07-13 21:57:17 - INFO - Processing pin: 73605775154862862
+2025-07-13 21:57:17 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/73605775154862862/
+2025-07-13 21:57:19 - DEBUG - Navigating to pin page
+2025-07-13 21:57:22 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:22 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/05/7a/47/057a4761c2112d11b8136b21f7ecf109.jpg
+2025-07-13 21:57:23 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/05/7a/47/057a4761c2112d11b8136b21f7ecf109.jpg
+2025-07-13 21:57:23 - DEBUG - Original quality URL available
+2025-07-13 21:57:23 - INFO - Downloading image from: https://i.pinimg.com/736x/05/7a/47/057a4761c2112d11b8136b21f7ecf109.jpg
+2025-07-13 21:57:23 - DEBUG - Saved 170 processed pins to history
+2025-07-13 21:57:23 - DEBUG - Marked pin 73605775154862862 as processed
+2025-07-13 21:57:23 - INFO - Successfully downloaded pin 73605775154862862 - Size: 70161 bytes
+2025-07-13 21:57:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/76561262408661366/
+2025-07-13 21:57:23 - DEBUG - Extracted pin ID (standard format): 76561262408661366
+2025-07-13 21:57:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/76561262408661366/
+2025-07-13 21:57:23 - DEBUG - Extracted pin ID (standard format): 76561262408661366
+2025-07-13 21:57:23 - INFO - Processing pin: 76561262408661366
+2025-07-13 21:57:23 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/76561262408661366/
+2025-07-13 21:57:25 - DEBUG - Navigating to pin page
+2025-07-13 21:57:26 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:26 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/b3/6d/a0/b36da043f8e432fcafb385707bf50fcb.jpg
+2025-07-13 21:57:26 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/b3/6d/a0/b36da043f8e432fcafb385707bf50fcb.jpg
+2025-07-13 21:57:26 - DEBUG - Original quality URL available
+2025-07-13 21:57:26 - INFO - Downloading image from: https://i.pinimg.com/736x/b3/6d/a0/b36da043f8e432fcafb385707bf50fcb.jpg
+2025-07-13 21:57:26 - DEBUG - Saved 171 processed pins to history
+2025-07-13 21:57:26 - DEBUG - Marked pin 76561262408661366 as processed
+2025-07-13 21:57:26 - INFO - Successfully downloaded pin 76561262408661366 - Size: 106570 bytes
+2025-07-13 21:57:27 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens--844493672561241/
+2025-07-13 21:57:27 - DEBUG - Extracted pin ID (description format): 844493672561241
+2025-07-13 21:57:27 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens--844493672561241/
+2025-07-13 21:57:27 - DEBUG - Extracted pin ID (description format): 844493672561241
+2025-07-13 21:57:27 - INFO - Processing pin: 844493672561241
+2025-07-13 21:57:27 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/doc-martens--844493672561241/
+2025-07-13 21:57:28 - DEBUG - Navigating to pin page
+2025-07-13 21:57:30 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:30 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/5d/0c/0a/5d0c0af298bc493c14380d6f9f64a33b.jpg
+2025-07-13 21:57:30 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/5d/0c/0a/5d0c0af298bc493c14380d6f9f64a33b.jpg
+2025-07-13 21:57:30 - DEBUG - Original quality URL available
+2025-07-13 21:57:30 - INFO - Downloading image from: https://i.pinimg.com/736x/5d/0c/0a/5d0c0af298bc493c14380d6f9f64a33b.jpg
+2025-07-13 21:57:30 - DEBUG - Saved 172 processed pins to history
+2025-07-13 21:57:30 - DEBUG - Marked pin 844493672561241 as processed
+2025-07-13 21:57:30 - INFO - Successfully downloaded pin 844493672561241 - Size: 85266 bytes
+2025-07-13 21:57:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/162200024073142434/
+2025-07-13 21:57:30 - DEBUG - Extracted pin ID (standard format): 162200024073142434
+2025-07-13 21:57:30 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/162200024073142434/
+2025-07-13 21:57:30 - DEBUG - Extracted pin ID (standard format): 162200024073142434
+2025-07-13 21:57:30 - INFO - Processing pin: 162200024073142434
+2025-07-13 21:57:30 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/162200024073142434/
+2025-07-13 21:57:32 - DEBUG - Navigating to pin page
+2025-07-13 21:57:34 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:34 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/d3/36/c4/d336c47512a939ac88133c5112096e27.jpg
+2025-07-13 21:57:34 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/d3/36/c4/d336c47512a939ac88133c5112096e27.jpg
+2025-07-13 21:57:34 - DEBUG - Original quality URL available
+2025-07-13 21:57:34 - INFO - Downloading image from: https://i.pinimg.com/736x/d3/36/c4/d336c47512a939ac88133c5112096e27.jpg
+2025-07-13 21:57:34 - DEBUG - Saved 173 processed pins to history
+2025-07-13 21:57:34 - DEBUG - Marked pin 162200024073142434 as processed
+2025-07-13 21:57:34 - INFO - Successfully downloaded pin 162200024073142434 - Size: 31680 bytes
+2025-07-13 21:57:34 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3307399721377919/
+2025-07-13 21:57:34 - DEBUG - Extracted pin ID (standard format): 3307399721377919
+2025-07-13 21:57:34 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/3307399721377919/
+2025-07-13 21:57:34 - DEBUG - Extracted pin ID (standard format): 3307399721377919
+2025-07-13 21:57:34 - INFO - Processing pin: 3307399721377919
+2025-07-13 21:57:34 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/3307399721377919/
+2025-07-13 21:57:36 - DEBUG - Navigating to pin page
+2025-07-13 21:57:38 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:38 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/64/03/f2/6403f2a1029f6411ffdbb4a00fd5e186.jpg
+2025-07-13 21:57:38 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/64/03/f2/6403f2a1029f6411ffdbb4a00fd5e186.jpg
+2025-07-13 21:57:38 - DEBUG - Original quality URL available
+2025-07-13 21:57:38 - INFO - Downloading image from: https://i.pinimg.com/736x/64/03/f2/6403f2a1029f6411ffdbb4a00fd5e186.jpg
+2025-07-13 21:57:38 - DEBUG - Saved 174 processed pins to history
+2025-07-13 21:57:38 - DEBUG - Marked pin 3307399721377919 as processed
+2025-07-13 21:57:38 - INFO - Successfully downloaded pin 3307399721377919 - Size: 85427 bytes
+2025-07-13 21:57:39 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/early-fall-outfit-in-2025--844493674961150/
+2025-07-13 21:57:39 - DEBUG - Extracted pin ID (description format): 844493674961150
+2025-07-13 21:57:39 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/early-fall-outfit-in-2025--844493674961150/
+2025-07-13 21:57:39 - DEBUG - Extracted pin ID (description format): 844493674961150
+2025-07-13 21:57:39 - INFO - Processing pin: 844493674961150
+2025-07-13 21:57:39 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/early-fall-outfit-in-2025--844493674961150/
+2025-07-13 21:57:40 - DEBUG - Navigating to pin page
+2025-07-13 21:57:42 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:42 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/3a/ed/5f/3aed5f72d34671c46b64ab622bc42f40.jpg
+2025-07-13 21:57:42 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/3a/ed/5f/3aed5f72d34671c46b64ab622bc42f40.jpg
+2025-07-13 21:57:42 - DEBUG - Original quality URL available
+2025-07-13 21:57:42 - INFO - Downloading image from: https://i.pinimg.com/736x/3a/ed/5f/3aed5f72d34671c46b64ab622bc42f40.jpg
+2025-07-13 21:57:42 - DEBUG - Saved 175 processed pins to history
+2025-07-13 21:57:42 - DEBUG - Marked pin 844493674961150 as processed
+2025-07-13 21:57:42 - INFO - Successfully downloaded pin 844493674961150 - Size: 79770 bytes
+2025-07-13 21:57:43 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/11047961581707535/
+2025-07-13 21:57:43 - DEBUG - Extracted pin ID (standard format): 11047961581707535
+2025-07-13 21:57:43 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/11047961581707535/
+2025-07-13 21:57:43 - DEBUG - Extracted pin ID (standard format): 11047961581707535
+2025-07-13 21:57:43 - INFO - Processing pin: 11047961581707535
+2025-07-13 21:57:43 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/11047961581707535/
+2025-07-13 21:57:44 - DEBUG - Navigating to pin page
+2025-07-13 21:57:46 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:46 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/fd/aa/46/fdaa46e8733be1a098fe495d35050072.jpg
+2025-07-13 21:57:46 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/fd/aa/46/fdaa46e8733be1a098fe495d35050072.jpg
+2025-07-13 21:57:47 - DEBUG - Original quality URL available
+2025-07-13 21:57:47 - INFO - Downloading image from: https://i.pinimg.com/736x/fd/aa/46/fdaa46e8733be1a098fe495d35050072.jpg
+2025-07-13 21:57:47 - DEBUG - Saved 176 processed pins to history
+2025-07-13 21:57:47 - DEBUG - Marked pin 11047961581707535 as processed
+2025-07-13 21:57:47 - INFO - Successfully downloaded pin 11047961581707535 - Size: 49037 bytes
+2025-07-13 21:57:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1970393582456838/
+2025-07-13 21:57:47 - DEBUG - Extracted pin ID (standard format): 1970393582456838
+2025-07-13 21:57:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1970393582456838/
+2025-07-13 21:57:47 - DEBUG - Extracted pin ID (standard format): 1970393582456838
+2025-07-13 21:57:47 - INFO - Processing pin: 1970393582456838
+2025-07-13 21:57:47 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/1970393582456838/
+2025-07-13 21:57:49 - DEBUG - Navigating to pin page
+2025-07-13 21:57:52 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:52 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/3f/8c/d7/3f8cd7ad213b7959b0fb4367bdafe5ac.jpg
+2025-07-13 21:57:52 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/3f/8c/d7/3f8cd7ad213b7959b0fb4367bdafe5ac.jpg
+2025-07-13 21:57:52 - DEBUG - Original quality URL available
+2025-07-13 21:57:52 - INFO - Downloading image from: https://i.pinimg.com/736x/3f/8c/d7/3f8cd7ad213b7959b0fb4367bdafe5ac.jpg
+2025-07-13 21:57:53 - DEBUG - Saved 177 processed pins to history
+2025-07-13 21:57:53 - DEBUG - Marked pin 1970393582456838 as processed
+2025-07-13 21:57:53 - INFO - Successfully downloaded pin 1970393582456838 - Size: 86450 bytes
+2025-07-13 21:57:53 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868557900753/
+2025-07-13 21:57:53 - DEBUG - Extracted pin ID (standard format): 2251868557900753
+2025-07-13 21:57:53 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868557900753/
+2025-07-13 21:57:53 - DEBUG - Extracted pin ID (standard format): 2251868557900753
+2025-07-13 21:57:53 - INFO - Processing pin: 2251868557900753
+2025-07-13 21:57:53 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/2251868557900753/
+2025-07-13 21:57:54 - DEBUG - Navigating to pin page
+2025-07-13 21:57:56 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:56 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/3b/f8/2c/3bf82c512ac71ecdea5f4d05aaf96419.jpg
+2025-07-13 21:57:56 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/3b/f8/2c/3bf82c512ac71ecdea5f4d05aaf96419.jpg
+2025-07-13 21:57:56 - DEBUG - Original quality URL available
+2025-07-13 21:57:56 - INFO - Downloading image from: https://i.pinimg.com/736x/3b/f8/2c/3bf82c512ac71ecdea5f4d05aaf96419.jpg
+2025-07-13 21:57:56 - DEBUG - Saved 178 processed pins to history
+2025-07-13 21:57:56 - DEBUG - Marked pin 2251868557900753 as processed
+2025-07-13 21:57:56 - INFO - Successfully downloaded pin 2251868557900753 - Size: 140246 bytes
+2025-07-13 21:57:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/in-2023--844493672944206/
+2025-07-13 21:57:57 - DEBUG - Extracted pin ID (description format): 844493672944206
+2025-07-13 21:57:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/in-2023--844493672944206/
+2025-07-13 21:57:57 - DEBUG - Extracted pin ID (description format): 844493672944206
+2025-07-13 21:57:57 - INFO - Processing pin: 844493672944206
+2025-07-13 21:57:57 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/in-2023--844493672944206/
+2025-07-13 21:57:58 - DEBUG - Navigating to pin page
+2025-07-13 21:57:59 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:57:59 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/e5/24/a1/e524a1f67e29a026b6bc4a75fb27c9aa.jpg
+2025-07-13 21:58:00 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/e5/24/a1/e524a1f67e29a026b6bc4a75fb27c9aa.jpg
+2025-07-13 21:58:00 - DEBUG - Original quality URL available
+2025-07-13 21:58:00 - INFO - Downloading image from: https://i.pinimg.com/736x/e5/24/a1/e524a1f67e29a026b6bc4a75fb27c9aa.jpg
+2025-07-13 21:58:00 - DEBUG - Saved 179 processed pins to history
+2025-07-13 21:58:00 - DEBUG - Marked pin 844493672944206 as processed
+2025-07-13 21:58:00 - INFO - Successfully downloaded pin 844493672944206 - Size: 95363 bytes
+2025-07-13 21:58:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/28640147624825778/
+2025-07-13 21:58:00 - DEBUG - Extracted pin ID (standard format): 28640147624825778
+2025-07-13 21:58:00 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/28640147624825778/
+2025-07-13 21:58:00 - DEBUG - Extracted pin ID (standard format): 28640147624825778
+2025-07-13 21:58:00 - INFO - Processing pin: 28640147624825778
+2025-07-13 21:58:00 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/28640147624825778/
+2025-07-13 21:58:01 - DEBUG - Navigating to pin page
+2025-07-13 21:58:03 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:03 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/1e/68/9c/1e689c4edd22101e35ffdfa708f2d33a.jpg
+2025-07-13 21:58:03 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/1e/68/9c/1e689c4edd22101e35ffdfa708f2d33a.jpg
+2025-07-13 21:58:03 - DEBUG - Original quality URL available
+2025-07-13 21:58:03 - INFO - Downloading image from: https://i.pinimg.com/736x/1e/68/9c/1e689c4edd22101e35ffdfa708f2d33a.jpg
+2025-07-13 21:58:03 - DEBUG - Saved 180 processed pins to history
+2025-07-13 21:58:03 - DEBUG - Marked pin 28640147624825778 as processed
+2025-07-13 21:58:03 - INFO - Successfully downloaded pin 28640147624825778 - Size: 93018 bytes
+2025-07-13 21:58:04 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4996249582255951/
+2025-07-13 21:58:04 - DEBUG - Extracted pin ID (standard format): 4996249582255951
+2025-07-13 21:58:04 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/4996249582255951/
+2025-07-13 21:58:04 - DEBUG - Extracted pin ID (standard format): 4996249582255951
+2025-07-13 21:58:04 - INFO - Processing pin: 4996249582255951
+2025-07-13 21:58:04 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/4996249582255951/
+2025-07-13 21:58:05 - DEBUG - Navigating to pin page
+2025-07-13 21:58:07 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:07 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/13/89/e6/1389e6ae961f19d1b455b5408878441d.jpg
+2025-07-13 21:58:07 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/13/89/e6/1389e6ae961f19d1b455b5408878441d.jpg
+2025-07-13 21:58:07 - DEBUG - Original quality URL available
+2025-07-13 21:58:07 - INFO - Downloading image from: https://i.pinimg.com/736x/13/89/e6/1389e6ae961f19d1b455b5408878441d.jpg
+2025-07-13 21:58:07 - DEBUG - Saved 181 processed pins to history
+2025-07-13 21:58:07 - DEBUG - Marked pin 4996249582255951 as processed
+2025-07-13 21:58:07 - INFO - Successfully downloaded pin 4996249582255951 - Size: 78291 bytes
+2025-07-13 21:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/140806233531554/
+2025-07-13 21:58:08 - DEBUG - Extracted pin ID (standard format): 140806233531554
+2025-07-13 21:58:08 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/140806233531554/
+2025-07-13 21:58:08 - DEBUG - Extracted pin ID (standard format): 140806233531554
+2025-07-13 21:58:08 - INFO - Processing pin: 140806233531554
+2025-07-13 21:58:08 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/140806233531554/
+2025-07-13 21:58:10 - DEBUG - Navigating to pin page
+2025-07-13 21:58:11 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:11 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/20/e8/b5/20e8b59cbbb9162cdda698b34568dbea.jpg
+2025-07-13 21:58:11 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/20/e8/b5/20e8b59cbbb9162cdda698b34568dbea.jpg
+2025-07-13 21:58:11 - DEBUG - Original quality URL available
+2025-07-13 21:58:11 - INFO - Downloading image from: https://i.pinimg.com/736x/20/e8/b5/20e8b59cbbb9162cdda698b34568dbea.jpg
+2025-07-13 21:58:12 - DEBUG - Saved 182 processed pins to history
+2025-07-13 21:58:12 - DEBUG - Marked pin 140806233531554 as processed
+2025-07-13 21:58:12 - INFO - Successfully downloaded pin 140806233531554 - Size: 139271 bytes
+2025-07-13 21:58:12 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868558358811/
+2025-07-13 21:58:12 - DEBUG - Extracted pin ID (standard format): 2251868558358811
+2025-07-13 21:58:12 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2251868558358811/
+2025-07-13 21:58:12 - DEBUG - Extracted pin ID (standard format): 2251868558358811
+2025-07-13 21:58:12 - INFO - Processing pin: 2251868558358811
+2025-07-13 21:58:12 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/2251868558358811/
+2025-07-13 21:58:14 - DEBUG - Navigating to pin page
+2025-07-13 21:58:16 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:16 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/92/92/51/92925123511917643234e2a4333043a2.jpg
+2025-07-13 21:58:16 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/92/92/51/92925123511917643234e2a4333043a2.jpg
+2025-07-13 21:58:16 - DEBUG - Original quality URL available
+2025-07-13 21:58:16 - INFO - Downloading image from: https://i.pinimg.com/736x/92/92/51/92925123511917643234e2a4333043a2.jpg
+2025-07-13 21:58:16 - DEBUG - Saved 183 processed pins to history
+2025-07-13 21:58:16 - DEBUG - Marked pin 2251868558358811 as processed
+2025-07-13 21:58:16 - INFO - Successfully downloaded pin 2251868558358811 - Size: 150950 bytes
+2025-07-13 21:58:17 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2533343537430972/
+2025-07-13 21:58:17 - DEBUG - Extracted pin ID (standard format): 2533343537430972
+2025-07-13 21:58:17 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2533343537430972/
+2025-07-13 21:58:17 - DEBUG - Extracted pin ID (standard format): 2533343537430972
+2025-07-13 21:58:17 - INFO - Processing pin: 2533343537430972
+2025-07-13 21:58:17 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/2533343537430972/
+2025-07-13 21:58:18 - DEBUG - Navigating to pin page
+2025-07-13 21:58:20 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:21 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/4b/72/c0/4b72c01c0694f3db31d4a2147f47816e.jpg
+2025-07-13 21:58:21 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/4b/72/c0/4b72c01c0694f3db31d4a2147f47816e.jpg
+2025-07-13 21:58:21 - DEBUG - Original quality URL available
+2025-07-13 21:58:21 - INFO - Downloading image from: https://i.pinimg.com/736x/4b/72/c0/4b72c01c0694f3db31d4a2147f47816e.jpg
+2025-07-13 21:58:21 - DEBUG - Saved 184 processed pins to history
+2025-07-13 21:58:21 - DEBUG - Marked pin 2533343537430972 as processed
+2025-07-13 21:58:21 - INFO - Successfully downloaded pin 2533343537430972 - Size: 88947 bytes
+2025-07-13 21:58:21 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14073817580650026/
+2025-07-13 21:58:21 - DEBUG - Extracted pin ID (standard format): 14073817580650026
+2025-07-13 21:58:21 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14073817580650026/
+2025-07-13 21:58:21 - DEBUG - Extracted pin ID (standard format): 14073817580650026
+2025-07-13 21:58:21 - INFO - Processing pin: 14073817580650026
+2025-07-13 21:58:21 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/14073817580650026/
+2025-07-13 21:58:23 - DEBUG - Navigating to pin page
+2025-07-13 21:58:27 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:27 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/0f/90/82/0f90827ea58024ceba55ec778b50fc80.jpg
+2025-07-13 21:58:27 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/0f/90/82/0f90827ea58024ceba55ec778b50fc80.jpg
+2025-07-13 21:58:27 - DEBUG - Original quality URL available
+2025-07-13 21:58:27 - INFO - Downloading image from: https://i.pinimg.com/736x/0f/90/82/0f90827ea58024ceba55ec778b50fc80.jpg
+2025-07-13 21:58:27 - DEBUG - Saved 185 processed pins to history
+2025-07-13 21:58:27 - DEBUG - Marked pin 14073817580650026 as processed
+2025-07-13 21:58:27 - INFO - Successfully downloaded pin 14073817580650026 - Size: 55612 bytes
+2025-07-13 21:58:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6473993211552282/
+2025-07-13 21:58:28 - DEBUG - Extracted pin ID (standard format): 6473993211552282
+2025-07-13 21:58:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/6473993211552282/
+2025-07-13 21:58:28 - DEBUG - Extracted pin ID (standard format): 6473993211552282
+2025-07-13 21:58:28 - INFO - Processing pin: 6473993211552282
+2025-07-13 21:58:28 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/6473993211552282/
+2025-07-13 21:58:30 - DEBUG - Navigating to pin page
+2025-07-13 21:58:32 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:32 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/51/6c/f2/516cf26e1a0ee6c7f8ff7078b12afb12.jpg
+2025-07-13 21:58:32 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/51/6c/f2/516cf26e1a0ee6c7f8ff7078b12afb12.jpg
+2025-07-13 21:58:32 - DEBUG - Original quality URL available
+2025-07-13 21:58:32 - INFO - Downloading image from: https://i.pinimg.com/736x/51/6c/f2/516cf26e1a0ee6c7f8ff7078b12afb12.jpg
+2025-07-13 21:58:32 - DEBUG - Saved 186 processed pins to history
+2025-07-13 21:58:32 - DEBUG - Marked pin 6473993211552282 as processed
+2025-07-13 21:58:32 - INFO - Successfully downloaded pin 6473993211552282 - Size: 86044 bytes
+2025-07-13 21:58:33 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2181499812591705/
+2025-07-13 21:58:33 - DEBUG - Extracted pin ID (standard format): 2181499812591705
+2025-07-13 21:58:33 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2181499812591705/
+2025-07-13 21:58:33 - DEBUG - Extracted pin ID (standard format): 2181499812591705
+2025-07-13 21:58:33 - INFO - Processing pin: 2181499812591705
+2025-07-13 21:58:33 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/2181499812591705/
+2025-07-13 21:58:35 - DEBUG - Navigating to pin page
+2025-07-13 21:58:36 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:36 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/e0/48/6e/e0486e0779563f9debce14e632e2e608.jpg
+2025-07-13 21:58:37 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/e0/48/6e/e0486e0779563f9debce14e632e2e608.jpg
+2025-07-13 21:58:37 - DEBUG - Original quality URL available
+2025-07-13 21:58:37 - INFO - Downloading image from: https://i.pinimg.com/736x/e0/48/6e/e0486e0779563f9debce14e632e2e608.jpg
+2025-07-13 21:58:37 - DEBUG - Saved 187 processed pins to history
+2025-07-13 21:58:37 - DEBUG - Marked pin 2181499812591705 as processed
+2025-07-13 21:58:37 - INFO - Successfully downloaded pin 2181499812591705 - Size: 69170 bytes
+2025-07-13 21:58:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/117375134031226703/
+2025-07-13 21:58:37 - DEBUG - Extracted pin ID (standard format): 117375134031226703
+2025-07-13 21:58:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/117375134031226703/
+2025-07-13 21:58:37 - DEBUG - Extracted pin ID (standard format): 117375134031226703
+2025-07-13 21:58:37 - INFO - Processing pin: 117375134031226703
+2025-07-13 21:58:37 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/117375134031226703/
+2025-07-13 21:58:39 - DEBUG - Navigating to pin page
+2025-07-13 21:58:41 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:41 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/51/55/e9/5155e92ab64c354cfa0607009986431d.jpg
+2025-07-13 21:58:41 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/51/55/e9/5155e92ab64c354cfa0607009986431d.jpg
+2025-07-13 21:58:41 - DEBUG - Original quality URL available
+2025-07-13 21:58:41 - INFO - Downloading image from: https://i.pinimg.com/736x/51/55/e9/5155e92ab64c354cfa0607009986431d.jpg
+2025-07-13 21:58:41 - DEBUG - Saved 188 processed pins to history
+2025-07-13 21:58:41 - DEBUG - Marked pin 117375134031226703 as processed
+2025-07-13 21:58:41 - INFO - Successfully downloaded pin 117375134031226703 - Size: 93081 bytes
+2025-07-13 21:58:41 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1196337403408057/
+2025-07-13 21:58:41 - DEBUG - Extracted pin ID (standard format): 1196337403408057
+2025-07-13 21:58:41 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/1196337403408057/
+2025-07-13 21:58:41 - DEBUG - Extracted pin ID (standard format): 1196337403408057
+2025-07-13 21:58:41 - INFO - Processing pin: 1196337403408057
+2025-07-13 21:58:41 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/1196337403408057/
+2025-07-13 21:58:43 - DEBUG - Navigating to pin page
+2025-07-13 21:58:47 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:47 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/26/13/fa/2613fa730a0ddb90274310039cfd3141.jpg
+2025-07-13 21:58:47 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/26/13/fa/2613fa730a0ddb90274310039cfd3141.jpg
+2025-07-13 21:58:47 - DEBUG - Original quality URL available
+2025-07-13 21:58:47 - INFO - Downloading image from: https://i.pinimg.com/736x/26/13/fa/2613fa730a0ddb90274310039cfd3141.jpg
+2025-07-13 21:58:47 - DEBUG - Saved 189 processed pins to history
+2025-07-13 21:58:47 - DEBUG - Marked pin 1196337403408057 as processed
+2025-07-13 21:58:47 - INFO - Successfully downloaded pin 1196337403408057 - Size: 112143 bytes
+2025-07-13 21:58:48 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/37788084368666521/
+2025-07-13 21:58:48 - DEBUG - Extracted pin ID (standard format): 37788084368666521
+2025-07-13 21:58:48 - DEBUG - Pin 37788084368666521 already processed - skipping
+2025-07-13 21:58:48 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7951736835071739/
+2025-07-13 21:58:48 - DEBUG - Extracted pin ID (standard format): 7951736835071739
+2025-07-13 21:58:48 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7951736835071739/
+2025-07-13 21:58:48 - DEBUG - Extracted pin ID (standard format): 7951736835071739
+2025-07-13 21:58:48 - INFO - Processing pin: 7951736835071739
+2025-07-13 21:58:48 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/7951736835071739/
+2025-07-13 21:58:50 - DEBUG - Navigating to pin page
+2025-07-13 21:58:51 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:51 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/70/32/5f/70325f45472ffc3d0d346c1cad6fdebe.jpg
+2025-07-13 21:58:52 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/70/32/5f/70325f45472ffc3d0d346c1cad6fdebe.jpg
+2025-07-13 21:58:52 - DEBUG - Original quality URL available
+2025-07-13 21:58:52 - INFO - Downloading image from: https://i.pinimg.com/736x/70/32/5f/70325f45472ffc3d0d346c1cad6fdebe.jpg
+2025-07-13 21:58:52 - DEBUG - Saved 190 processed pins to history
+2025-07-13 21:58:52 - DEBUG - Marked pin 7951736835071739 as processed
+2025-07-13 21:58:52 - INFO - Successfully downloaded pin 7951736835071739 - Size: 98474 bytes
+2025-07-13 21:58:52 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57561701484260178/
+2025-07-13 21:58:52 - DEBUG - Extracted pin ID (standard format): 57561701484260178
+2025-07-13 21:58:52 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57561701484260178/
+2025-07-13 21:58:52 - DEBUG - Extracted pin ID (standard format): 57561701484260178
+2025-07-13 21:58:52 - INFO - Processing pin: 57561701484260178
+2025-07-13 21:58:52 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/57561701484260178/
+2025-07-13 21:58:54 - DEBUG - Navigating to pin page
+2025-07-13 21:58:56 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:58:56 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/fc/ba/c2/fcbac27ce2833fc7ec1e82b649438029.jpg
+2025-07-13 21:58:56 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/fc/ba/c2/fcbac27ce2833fc7ec1e82b649438029.jpg
+2025-07-13 21:58:56 - DEBUG - Original quality URL available
+2025-07-13 21:58:56 - INFO - Downloading image from: https://i.pinimg.com/736x/fc/ba/c2/fcbac27ce2833fc7ec1e82b649438029.jpg
+2025-07-13 21:58:56 - DEBUG - Saved 191 processed pins to history
+2025-07-13 21:58:56 - DEBUG - Marked pin 57561701484260178 as processed
+2025-07-13 21:58:56 - INFO - Successfully downloaded pin 57561701484260178 - Size: 70664 bytes
+2025-07-13 21:58:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:58:57 - DEBUG - Extracted pin ID (standard format): 653444227202441927
+2025-07-13 21:58:57 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:58:57 - DEBUG - Extracted pin ID (standard format): 653444227202441927
+2025-07-13 21:58:57 - INFO - Processing pin: 653444227202441927
+2025-07-13 21:58:57 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/653444227202441927/
+2025-07-13 21:58:59 - DEBUG - Navigating to pin page
+2025-07-13 21:59:01 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:01 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/42/57/f9/4257f92effab6b4e18e3194494a0ca2c.jpg
+2025-07-13 21:59:01 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/42/57/f9/4257f92effab6b4e18e3194494a0ca2c.jpg
+2025-07-13 21:59:01 - DEBUG - Original quality URL available
+2025-07-13 21:59:01 - INFO - Downloading image from: https://i.pinimg.com/736x/42/57/f9/4257f92effab6b4e18e3194494a0ca2c.jpg
+2025-07-13 21:59:01 - DEBUG - Saved 192 processed pins to history
+2025-07-13 21:59:01 - DEBUG - Marked pin 653444227202441927 as processed
+2025-07-13 21:59:01 - INFO - Successfully downloaded pin 653444227202441927 - Size: 96853 bytes
+2025-07-13 21:59:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/119486196357952095/
+2025-07-13 21:59:01 - DEBUG - Extracted pin ID (standard format): 119486196357952095
+2025-07-13 21:59:01 - DEBUG - Pin 119486196357952095 already processed - skipping
+2025-07-13 21:59:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672599093/
+2025-07-13 21:59:01 - DEBUG - Extracted pin ID (standard format): 844493672599093
+2025-07-13 21:59:01 - DEBUG - Pin 844493672599093 already processed - skipping
+2025-07-13 21:59:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57139489017200072/
+2025-07-13 21:59:01 - DEBUG - Extracted pin ID (standard format): 57139489017200072
+2025-07-13 21:59:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/57139489017200072/
+2025-07-13 21:59:01 - DEBUG - Extracted pin ID (standard format): 57139489017200072
+2025-07-13 21:59:01 - INFO - Processing pin: 57139489017200072
+2025-07-13 21:59:01 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/57139489017200072/
+2025-07-13 21:59:03 - DEBUG - Navigating to pin page
+2025-07-13 21:59:06 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:06 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/c2/71/b1/c271b12e460f8e27df3809474027153b.jpg
+2025-07-13 21:59:06 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/c2/71/b1/c271b12e460f8e27df3809474027153b.jpg
+2025-07-13 21:59:06 - DEBUG - Original quality URL available
+2025-07-13 21:59:06 - INFO - Downloading image from: https://i.pinimg.com/736x/c2/71/b1/c271b12e460f8e27df3809474027153b.jpg
+2025-07-13 21:59:06 - DEBUG - Saved 193 processed pins to history
+2025-07-13 21:59:06 - DEBUG - Marked pin 57139489017200072 as processed
+2025-07-13 21:59:06 - INFO - Successfully downloaded pin 57139489017200072 - Size: 131474 bytes
+2025-07-13 21:59:07 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/36169603252951848/
+2025-07-13 21:59:07 - DEBUG - Extracted pin ID (standard format): 36169603252951848
+2025-07-13 21:59:07 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/36169603252951848/
+2025-07-13 21:59:07 - DEBUG - Extracted pin ID (standard format): 36169603252951848
+2025-07-13 21:59:07 - INFO - Processing pin: 36169603252951848
+2025-07-13 21:59:07 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/36169603252951848/
+2025-07-13 21:59:09 - DEBUG - Navigating to pin page
+2025-07-13 21:59:10 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:11 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/36/52/2e/36522e7b9cf8a0ee0eb7136d0f80c5f6.jpg
+2025-07-13 21:59:11 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/36/52/2e/36522e7b9cf8a0ee0eb7136d0f80c5f6.jpg
+2025-07-13 21:59:11 - DEBUG - Original quality URL available
+2025-07-13 21:59:11 - INFO - Downloading image from: https://i.pinimg.com/736x/36/52/2e/36522e7b9cf8a0ee0eb7136d0f80c5f6.jpg
+2025-07-13 21:59:11 - DEBUG - Saved 194 processed pins to history
+2025-07-13 21:59:11 - DEBUG - Marked pin 36169603252951848 as processed
+2025-07-13 21:59:11 - INFO - Successfully downloaded pin 36169603252951848 - Size: 115842 bytes
+2025-07-13 21:59:11 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672770241/
+2025-07-13 21:59:11 - DEBUG - Extracted pin ID (standard format): 844493672770241
+2025-07-13 21:59:11 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493672770241/
+2025-07-13 21:59:11 - DEBUG - Extracted pin ID (standard format): 844493672770241
+2025-07-13 21:59:11 - INFO - Processing pin: 844493672770241
+2025-07-13 21:59:11 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/844493672770241/
+2025-07-13 21:59:13 - DEBUG - Navigating to pin page
+2025-07-13 21:59:14 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:15 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/ba/d1/61/bad161f5bb808eb1aaa93600ff849c8b.jpg
+2025-07-13 21:59:15 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/ba/d1/61/bad161f5bb808eb1aaa93600ff849c8b.jpg
+2025-07-13 21:59:15 - DEBUG - Original quality URL available
+2025-07-13 21:59:15 - INFO - Downloading image from: https://i.pinimg.com/736x/ba/d1/61/bad161f5bb808eb1aaa93600ff849c8b.jpg
+2025-07-13 21:59:15 - DEBUG - Saved 195 processed pins to history
+2025-07-13 21:59:15 - DEBUG - Marked pin 844493672770241 as processed
+2025-07-13 21:59:15 - INFO - Successfully downloaded pin 844493672770241 - Size: 44668 bytes
+2025-07-13 21:59:15 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:59:15 - DEBUG - Extracted pin ID (standard format): 7459155629561612
+2025-07-13 21:59:15 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:59:15 - DEBUG - Extracted pin ID (standard format): 7459155629561612
+2025-07-13 21:59:15 - INFO - Processing pin: 7459155629561612
+2025-07-13 21:59:15 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/7459155629561612/
+2025-07-13 21:59:17 - DEBUG - Navigating to pin page
+2025-07-13 21:59:19 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:19 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/64/0c/31/640c313e56ab09868b43c3e3a92cda60.jpg
+2025-07-13 21:59:19 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/64/0c/31/640c313e56ab09868b43c3e3a92cda60.jpg
+2025-07-13 21:59:19 - DEBUG - Original quality URL available
+2025-07-13 21:59:19 - INFO - Downloading image from: https://i.pinimg.com/736x/64/0c/31/640c313e56ab09868b43c3e3a92cda60.jpg
+2025-07-13 21:59:19 - DEBUG - Saved 196 processed pins to history
+2025-07-13 21:59:19 - DEBUG - Marked pin 7459155629561612 as processed
+2025-07-13 21:59:19 - INFO - Successfully downloaded pin 7459155629561612 - Size: 153252 bytes
+2025-07-13 21:59:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/sndag--7318418139363865/
+2025-07-13 21:59:20 - DEBUG - Extracted pin ID (description format): 7318418139363865
+2025-07-13 21:59:20 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/sndag--7318418139363865/
+2025-07-13 21:59:20 - DEBUG - Extracted pin ID (description format): 7318418139363865
+2025-07-13 21:59:20 - INFO - Processing pin: 7318418139363865
+2025-07-13 21:59:20 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/sndag--7318418139363865/
+2025-07-13 21:59:21 - DEBUG - Navigating to pin page
+2025-07-13 21:59:23 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:23 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/7d/1c/1e/7d1c1ec22af75060ce24c44f16c04d0e.jpg
+2025-07-13 21:59:23 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/7d/1c/1e/7d1c1ec22af75060ce24c44f16c04d0e.jpg
+2025-07-13 21:59:23 - DEBUG - Original quality URL available
+2025-07-13 21:59:23 - INFO - Downloading image from: https://i.pinimg.com/736x/7d/1c/1e/7d1c1ec22af75060ce24c44f16c04d0e.jpg
+2025-07-13 21:59:23 - DEBUG - Saved 197 processed pins to history
+2025-07-13 21:59:23 - DEBUG - Marked pin 7318418139363865 as processed
+2025-07-13 21:59:23 - INFO - Successfully downloaded pin 7318418139363865 - Size: 139530 bytes
+2025-07-13 21:59:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/210543351620708794/
+2025-07-13 21:59:24 - DEBUG - Extracted pin ID (standard format): 210543351620708794
+2025-07-13 21:59:24 - DEBUG - Pin 210543351620708794 already processed - skipping
+2025-07-13 21:59:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/8233211828113174/
+2025-07-13 21:59:24 - DEBUG - Extracted pin ID (standard format): 8233211828113174
+2025-07-13 21:59:24 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/8233211828113174/
+2025-07-13 21:59:24 - DEBUG - Extracted pin ID (standard format): 8233211828113174
+2025-07-13 21:59:24 - INFO - Processing pin: 8233211828113174
+2025-07-13 21:59:24 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/8233211828113174/
+2025-07-13 21:59:25 - DEBUG - Navigating to pin page
+2025-07-13 21:59:27 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:27 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/86/cf/cd/86cfcdbb10b7af13142717d4c4b08f78.jpg
+2025-07-13 21:59:27 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/86/cf/cd/86cfcdbb10b7af13142717d4c4b08f78.jpg
+2025-07-13 21:59:27 - DEBUG - Original quality URL available
+2025-07-13 21:59:27 - INFO - Downloading image from: https://i.pinimg.com/736x/86/cf/cd/86cfcdbb10b7af13142717d4c4b08f78.jpg
+2025-07-13 21:59:27 - DEBUG - Saved 198 processed pins to history
+2025-07-13 21:59:27 - DEBUG - Marked pin 8233211828113174 as processed
+2025-07-13 21:59:27 - INFO - Successfully downloaded pin 8233211828113174 - Size: 110005 bytes
+2025-07-13 21:59:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/fshn--351912458392067/
+2025-07-13 21:59:28 - DEBUG - Extracted pin ID (description format): 351912458392067
+2025-07-13 21:59:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/fshn--351912458392067/
+2025-07-13 21:59:28 - DEBUG - Extracted pin ID (description format): 351912458392067
+2025-07-13 21:59:28 - INFO - Processing pin: 351912458392067
+2025-07-13 21:59:28 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/fshn--351912458392067/
+2025-07-13 21:59:29 - DEBUG - Navigating to pin page
+2025-07-13 21:59:31 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:32 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/b7/03/d4/b703d485f28da5f1dceeced468428da6.jpg
+2025-07-13 21:59:32 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/b7/03/d4/b703d485f28da5f1dceeced468428da6.jpg
+2025-07-13 21:59:32 - DEBUG - Original quality URL available
+2025-07-13 21:59:32 - INFO - Downloading image from: https://i.pinimg.com/736x/b7/03/d4/b703d485f28da5f1dceeced468428da6.jpg
+2025-07-13 21:59:32 - DEBUG - Saved 199 processed pins to history
+2025-07-13 21:59:32 - DEBUG - Marked pin 351912458392067 as processed
+2025-07-13 21:59:32 - INFO - Successfully downloaded pin 351912458392067 - Size: 71902 bytes
+2025-07-13 21:59:33 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18295942230489807/
+2025-07-13 21:59:33 - DEBUG - Extracted pin ID (standard format): 18295942230489807
+2025-07-13 21:59:33 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/18295942230489807/
+2025-07-13 21:59:33 - DEBUG - Extracted pin ID (standard format): 18295942230489807
+2025-07-13 21:59:33 - INFO - Processing pin: 18295942230489807
+2025-07-13 21:59:33 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/18295942230489807/
+2025-07-13 21:59:35 - DEBUG - Navigating to pin page
+2025-07-13 21:59:36 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:36 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/86/37/26/86372659982c31dbe033d5111abeaf25.jpg
+2025-07-13 21:59:37 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/86/37/26/86372659982c31dbe033d5111abeaf25.jpg
+2025-07-13 21:59:37 - DEBUG - Original quality URL available
+2025-07-13 21:59:37 - INFO - Downloading image from: https://i.pinimg.com/736x/86/37/26/86372659982c31dbe033d5111abeaf25.jpg
+2025-07-13 21:59:37 - DEBUG - Saved 200 processed pins to history
+2025-07-13 21:59:37 - DEBUG - Marked pin 18295942230489807 as processed
+2025-07-13 21:59:37 - INFO - Successfully downloaded pin 18295942230489807 - Size: 93007 bytes
+2025-07-13 21:59:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7036943162208585/
+2025-07-13 21:59:37 - DEBUG - Extracted pin ID (standard format): 7036943162208585
+2025-07-13 21:59:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/7036943162208585/
+2025-07-13 21:59:37 - DEBUG - Extracted pin ID (standard format): 7036943162208585
+2025-07-13 21:59:37 - INFO - Processing pin: 7036943162208585
+2025-07-13 21:59:37 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/7036943162208585/
+2025-07-13 21:59:39 - DEBUG - Navigating to pin page
+2025-07-13 21:59:41 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:42 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/62/67/54/62675406b7f315eea8c8c0fcaf7453b3.jpg
+2025-07-13 21:59:42 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/62/67/54/62675406b7f315eea8c8c0fcaf7453b3.jpg
+2025-07-13 21:59:42 - DEBUG - Original quality URL available
+2025-07-13 21:59:42 - INFO - Downloading image from: https://i.pinimg.com/736x/62/67/54/62675406b7f315eea8c8c0fcaf7453b3.jpg
+2025-07-13 21:59:42 - DEBUG - Saved 201 processed pins to history
+2025-07-13 21:59:42 - DEBUG - Marked pin 7036943162208585 as processed
+2025-07-13 21:59:42 - INFO - Successfully downloaded pin 7036943162208585 - Size: 43815 bytes
+2025-07-13 21:59:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/just-aesthetics--96194142036279652/
+2025-07-13 21:59:42 - DEBUG - Extracted pin ID (description format): 96194142036279652
+2025-07-13 21:59:42 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/just-aesthetics--96194142036279652/
+2025-07-13 21:59:42 - DEBUG - Extracted pin ID (description format): 96194142036279652
+2025-07-13 21:59:42 - INFO - Processing pin: 96194142036279652
+2025-07-13 21:59:42 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/just-aesthetics--96194142036279652/
+2025-07-13 21:59:44 - DEBUG - Navigating to pin page
+2025-07-13 21:59:46 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:46 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/87/5e/45/875e45c6ef786c64e04496b8d1e259f7.jpg
+2025-07-13 21:59:47 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/87/5e/45/875e45c6ef786c64e04496b8d1e259f7.jpg
+2025-07-13 21:59:47 - DEBUG - Original quality URL available
+2025-07-13 21:59:47 - INFO - Downloading image from: https://i.pinimg.com/736x/87/5e/45/875e45c6ef786c64e04496b8d1e259f7.jpg
+2025-07-13 21:59:47 - DEBUG - Saved 202 processed pins to history
+2025-07-13 21:59:47 - DEBUG - Marked pin 96194142036279652 as processed
+2025-07-13 21:59:47 - INFO - Successfully downloaded pin 96194142036279652 - Size: 173065 bytes
+2025-07-13 21:59:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/33565959717962168/
+2025-07-13 21:59:47 - DEBUG - Extracted pin ID (standard format): 33565959717962168
+2025-07-13 21:59:47 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/33565959717962168/
+2025-07-13 21:59:47 - DEBUG - Extracted pin ID (standard format): 33565959717962168
+2025-07-13 21:59:47 - INFO - Processing pin: 33565959717962168
+2025-07-13 21:59:47 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/33565959717962168/
+2025-07-13 21:59:49 - DEBUG - Navigating to pin page
+2025-07-13 21:59:51 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:51 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/29/0a/9f/290a9f1f38b65fc21b5999d186e95e39.jpg
+2025-07-13 21:59:51 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/29/0a/9f/290a9f1f38b65fc21b5999d186e95e39.jpg
+2025-07-13 21:59:51 - DEBUG - Original quality URL available
+2025-07-13 21:59:51 - INFO - Downloading image from: https://i.pinimg.com/736x/29/0a/9f/290a9f1f38b65fc21b5999d186e95e39.jpg
+2025-07-13 21:59:51 - DEBUG - Saved 203 processed pins to history
+2025-07-13 21:59:51 - DEBUG - Marked pin 33565959717962168 as processed
+2025-07-13 21:59:51 - INFO - Successfully downloaded pin 33565959717962168 - Size: 86277 bytes
+2025-07-13 21:59:52 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--6685099441480448/
+2025-07-13 21:59:52 - DEBUG - Extracted pin ID (description format): 6685099441480448
+2025-07-13 21:59:52 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--6685099441480448/
+2025-07-13 21:59:52 - DEBUG - Extracted pin ID (description format): 6685099441480448
+2025-07-13 21:59:52 - INFO - Processing pin: 6685099441480448
+2025-07-13 21:59:52 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/doc-martens-in-2025--6685099441480448/
+2025-07-13 21:59:54 - DEBUG - Navigating to pin page
+2025-07-13 21:59:56 - DEBUG - Waiting for og:image meta tag
+2025-07-13 21:59:56 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/71/ae/ab/71aeabc264da270c79f027221816e015.jpg
+2025-07-13 21:59:56 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/71/ae/ab/71aeabc264da270c79f027221816e015.jpg
+2025-07-13 21:59:56 - DEBUG - Original quality URL available
+2025-07-13 21:59:56 - INFO - Downloading image from: https://i.pinimg.com/736x/71/ae/ab/71aeabc264da270c79f027221816e015.jpg
+2025-07-13 21:59:56 - DEBUG - Saved 204 processed pins to history
+2025-07-13 21:59:56 - DEBUG - Marked pin 6685099441480448 as processed
+2025-07-13 21:59:56 - INFO - Successfully downloaded pin 6685099441480448 - Size: 181123 bytes
+2025-07-13 21:59:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675647247/
+2025-07-13 21:59:56 - DEBUG - Extracted pin ID (standard format): 844493675647247
+2025-07-13 21:59:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493675647247/
+2025-07-13 21:59:56 - DEBUG - Extracted pin ID (standard format): 844493675647247
+2025-07-13 21:59:56 - INFO - Processing pin: 844493675647247
+2025-07-13 21:59:56 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/844493675647247/
+2025-07-13 21:59:59 - DEBUG - Navigating to pin page
+2025-07-13 22:00:00 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:01 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/01/8f/08/018f08a7445fa8c645ace03c032beab3.jpg
+2025-07-13 22:00:01 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/01/8f/08/018f08a7445fa8c645ace03c032beab3.jpg
+2025-07-13 22:00:01 - DEBUG - Original quality URL available
+2025-07-13 22:00:01 - INFO - Downloading image from: https://i.pinimg.com/736x/01/8f/08/018f08a7445fa8c645ace03c032beab3.jpg
+2025-07-13 22:00:01 - DEBUG - Saved 205 processed pins to history
+2025-07-13 22:00:01 - DEBUG - Marked pin 844493675647247 as processed
+2025-07-13 22:00:01 - INFO - Successfully downloaded pin 844493675647247 - Size: 131295 bytes
+2025-07-13 22:00:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/25332816648005997/
+2025-07-13 22:00:01 - DEBUG - Extracted pin ID (standard format): 25332816648005997
+2025-07-13 22:00:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/25332816648005997/
+2025-07-13 22:00:01 - DEBUG - Extracted pin ID (standard format): 25332816648005997
+2025-07-13 22:00:01 - INFO - Processing pin: 25332816648005997
+2025-07-13 22:00:01 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/25332816648005997/
+2025-07-13 22:00:04 - DEBUG - Navigating to pin page
+2025-07-13 22:00:05 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:05 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/ae/51/e5/ae51e515342c06ecb925f7fe7eb5e2a7.jpg
+2025-07-13 22:00:06 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/ae/51/e5/ae51e515342c06ecb925f7fe7eb5e2a7.jpg
+2025-07-13 22:00:06 - DEBUG - Original quality URL available
+2025-07-13 22:00:06 - INFO - Downloading image from: https://i.pinimg.com/736x/ae/51/e5/ae51e515342c06ecb925f7fe7eb5e2a7.jpg
+2025-07-13 22:00:06 - DEBUG - Saved 206 processed pins to history
+2025-07-13 22:00:06 - DEBUG - Marked pin 25332816648005997 as processed
+2025-07-13 22:00:06 - INFO - Successfully downloaded pin 25332816648005997 - Size: 68458 bytes
+2025-07-13 22:00:06 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--844493675290234/
+2025-07-13 22:00:06 - DEBUG - Extracted pin ID (description format): 844493675290234
+2025-07-13 22:00:06 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/doc-martens-in-2025--844493675290234/
+2025-07-13 22:00:06 - DEBUG - Extracted pin ID (description format): 844493675290234
+2025-07-13 22:00:06 - INFO - Processing pin: 844493675290234
+2025-07-13 22:00:06 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/doc-martens-in-2025--844493675290234/
+2025-07-13 22:00:08 - DEBUG - Navigating to pin page
+2025-07-13 22:00:13 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:13 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/cc/67/79/cc6779962da3bb7d88c501258b333f7f.jpg
+2025-07-13 22:00:14 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/cc/67/79/cc6779962da3bb7d88c501258b333f7f.jpg
+2025-07-13 22:00:14 - DEBUG - Original quality URL available
+2025-07-13 22:00:14 - INFO - Downloading image from: https://i.pinimg.com/736x/cc/67/79/cc6779962da3bb7d88c501258b333f7f.jpg
+2025-07-13 22:00:14 - DEBUG - Saved 207 processed pins to history
+2025-07-13 22:00:14 - DEBUG - Marked pin 844493675290234 as processed
+2025-07-13 22:00:14 - INFO - Successfully downloaded pin 844493675290234 - Size: 105416 bytes
+2025-07-13 22:00:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2744449769058928/
+2025-07-13 22:00:14 - DEBUG - Extracted pin ID (standard format): 2744449769058928
+2025-07-13 22:00:14 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/2744449769058928/
+2025-07-13 22:00:14 - DEBUG - Extracted pin ID (standard format): 2744449769058928
+2025-07-13 22:00:14 - INFO - Processing pin: 2744449769058928
+2025-07-13 22:00:14 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/2744449769058928/
+2025-07-13 22:00:16 - DEBUG - Navigating to pin page
+2025-07-13 22:00:18 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:18 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/f0/20/88/f020888c232edbc71a98b79a6dc3285c.jpg
+2025-07-13 22:00:18 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/f0/20/88/f020888c232edbc71a98b79a6dc3285c.jpg
+2025-07-13 22:00:18 - DEBUG - Original quality URL available
+2025-07-13 22:00:18 - INFO - Downloading image from: https://i.pinimg.com/736x/f0/20/88/f020888c232edbc71a98b79a6dc3285c.jpg
+2025-07-13 22:00:18 - DEBUG - Saved 208 processed pins to history
+2025-07-13 22:00:18 - DEBUG - Marked pin 2744449769058928 as processed
+2025-07-13 22:00:18 - INFO - Successfully downloaded pin 2744449769058928 - Size: 60980 bytes
+2025-07-13 22:00:19 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14918242511288478/
+2025-07-13 22:00:19 - DEBUG - Extracted pin ID (standard format): 14918242511288478
+2025-07-13 22:00:19 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/14918242511288478/
+2025-07-13 22:00:19 - DEBUG - Extracted pin ID (standard format): 14918242511288478
+2025-07-13 22:00:19 - INFO - Processing pin: 14918242511288478
+2025-07-13 22:00:19 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/14918242511288478/
+2025-07-13 22:00:21 - DEBUG - Navigating to pin page
+2025-07-13 22:00:22 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:23 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/d8/f3/ad/d8f3adb5d97fdf8d2f38c1366688f3fc.jpg
+2025-07-13 22:00:23 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/d8/f3/ad/d8f3adb5d97fdf8d2f38c1366688f3fc.jpg
+2025-07-13 22:00:23 - DEBUG - Original quality URL available
+2025-07-13 22:00:23 - INFO - Downloading image from: https://i.pinimg.com/736x/d8/f3/ad/d8f3adb5d97fdf8d2f38c1366688f3fc.jpg
+2025-07-13 22:00:23 - DEBUG - Saved 209 processed pins to history
+2025-07-13 22:00:23 - DEBUG - Marked pin 14918242511288478 as processed
+2025-07-13 22:00:23 - INFO - Successfully downloaded pin 14918242511288478 - Size: 89009 bytes
+2025-07-13 22:00:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20969954511686421/
+2025-07-13 22:00:23 - DEBUG - Extracted pin ID (standard format): 20969954511686421
+2025-07-13 22:00:23 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/20969954511686421/
+2025-07-13 22:00:23 - DEBUG - Extracted pin ID (standard format): 20969954511686421
+2025-07-13 22:00:23 - INFO - Processing pin: 20969954511686421
+2025-07-13 22:00:23 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/20969954511686421/
+2025-07-13 22:00:26 - DEBUG - Navigating to pin page
+2025-07-13 22:00:27 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:27 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/6a/7d/54/6a7d5469c297a647660441a3fd7e26d0.jpg
+2025-07-13 22:00:28 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/6a/7d/54/6a7d5469c297a647660441a3fd7e26d0.jpg
+2025-07-13 22:00:28 - DEBUG - Original quality URL available
+2025-07-13 22:00:28 - INFO - Downloading image from: https://i.pinimg.com/736x/6a/7d/54/6a7d5469c297a647660441a3fd7e26d0.jpg
+2025-07-13 22:00:28 - DEBUG - Saved 210 processed pins to history
+2025-07-13 22:00:28 - DEBUG - Marked pin 20969954511686421 as processed
+2025-07-13 22:00:28 - INFO - Successfully downloaded pin 20969954511686421 - Size: 57655 bytes
+2025-07-13 22:00:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 22:00:28 - DEBUG - Extracted pin ID (standard format): 763852786840439935
+2025-07-13 22:00:28 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 22:00:28 - DEBUG - Extracted pin ID (standard format): 763852786840439935
+2025-07-13 22:00:28 - INFO - Processing pin: 763852786840439935
+2025-07-13 22:00:28 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/763852786840439935/
+2025-07-13 22:00:30 - DEBUG - Navigating to pin page
+2025-07-13 22:00:32 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:32 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/bb/67/8e/bb678e35998e9b3780bb50cbd9aaf305.jpg
+2025-07-13 22:00:32 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/bb/67/8e/bb678e35998e9b3780bb50cbd9aaf305.jpg
+2025-07-13 22:00:32 - DEBUG - Original quality URL available
+2025-07-13 22:00:32 - INFO - Downloading image from: https://i.pinimg.com/736x/bb/67/8e/bb678e35998e9b3780bb50cbd9aaf305.jpg
+2025-07-13 22:00:32 - DEBUG - Saved 211 processed pins to history
+2025-07-13 22:00:32 - DEBUG - Marked pin 763852786840439935 as processed
+2025-07-13 22:00:32 - INFO - Successfully downloaded pin 763852786840439935 - Size: 80712 bytes
+2025-07-13 22:00:33 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/204350901837523665/
+2025-07-13 22:00:33 - DEBUG - Extracted pin ID (standard format): 204350901837523665
+2025-07-13 22:00:33 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/204350901837523665/
+2025-07-13 22:00:33 - DEBUG - Extracted pin ID (standard format): 204350901837523665
+2025-07-13 22:00:33 - INFO - Processing pin: 204350901837523665
+2025-07-13 22:00:33 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/204350901837523665/
+2025-07-13 22:00:35 - DEBUG - Navigating to pin page
+2025-07-13 22:00:36 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:36 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/8e/b6/d9/8eb6d94fd18d006d9d78fad293ab2565.jpg
+2025-07-13 22:00:36 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/8e/b6/d9/8eb6d94fd18d006d9d78fad293ab2565.jpg
+2025-07-13 22:00:36 - DEBUG - Original quality URL available
+2025-07-13 22:00:36 - INFO - Downloading image from: https://i.pinimg.com/736x/8e/b6/d9/8eb6d94fd18d006d9d78fad293ab2565.jpg
+2025-07-13 22:00:36 - DEBUG - Saved 212 processed pins to history
+2025-07-13 22:00:36 - DEBUG - Marked pin 204350901837523665 as processed
+2025-07-13 22:00:36 - INFO - Successfully downloaded pin 204350901837523665 - Size: 146262 bytes
+2025-07-13 22:00:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673053633/
+2025-07-13 22:00:37 - DEBUG - Extracted pin ID (standard format): 844493673053633
+2025-07-13 22:00:37 - DEBUG - Pin 844493673053633 already processed - skipping
+2025-07-13 22:00:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 22:00:37 - DEBUG - Extracted pin ID (standard format): 281543724958877
+2025-07-13 22:00:37 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 22:00:37 - DEBUG - Extracted pin ID (standard format): 281543724958877
+2025-07-13 22:00:37 - INFO - Processing pin: 281543724958877
+2025-07-13 22:00:37 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/281543724958877/
+2025-07-13 22:00:39 - DEBUG - Navigating to pin page
+2025-07-13 22:00:40 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:40 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/3d/1d/2e/3d1d2efb2f05ba6bebc282b69dc69788.jpg
+2025-07-13 22:00:40 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/3d/1d/2e/3d1d2efb2f05ba6bebc282b69dc69788.jpg
+2025-07-13 22:00:40 - DEBUG - Original quality URL available
+2025-07-13 22:00:40 - INFO - Downloading image from: https://i.pinimg.com/736x/3d/1d/2e/3d1d2efb2f05ba6bebc282b69dc69788.jpg
+2025-07-13 22:00:40 - DEBUG - Saved 213 processed pins to history
+2025-07-13 22:00:40 - DEBUG - Marked pin 281543724958877 as processed
+2025-07-13 22:00:40 - INFO - Successfully downloaded pin 281543724958877 - Size: 80841 bytes
+2025-07-13 22:00:41 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/17099673581816611/
+2025-07-13 22:00:41 - DEBUG - Extracted pin ID (standard format): 17099673581816611
+2025-07-13 22:00:41 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/17099673581816611/
+2025-07-13 22:00:41 - DEBUG - Extracted pin ID (standard format): 17099673581816611
+2025-07-13 22:00:41 - INFO - Processing pin: 17099673581816611
+2025-07-13 22:00:41 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/17099673581816611/
+2025-07-13 22:00:43 - DEBUG - Navigating to pin page
+2025-07-13 22:00:44 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:44 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/98/a3/db/98a3dba5aa683710527a7aa80b34f416.jpg
+2025-07-13 22:00:45 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/98/a3/db/98a3dba5aa683710527a7aa80b34f416.jpg
+2025-07-13 22:00:45 - DEBUG - Original quality URL available
+2025-07-13 22:00:45 - INFO - Downloading image from: https://i.pinimg.com/736x/98/a3/db/98a3dba5aa683710527a7aa80b34f416.jpg
+2025-07-13 22:00:45 - DEBUG - Saved 214 processed pins to history
+2025-07-13 22:00:45 - DEBUG - Marked pin 17099673581816611 as processed
+2025-07-13 22:00:45 - INFO - Successfully downloaded pin 17099673581816611 - Size: 102710 bytes
+2025-07-13 22:00:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/920915823820400157/
+2025-07-13 22:00:45 - DEBUG - Extracted pin ID (standard format): 920915823820400157
+2025-07-13 22:00:45 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/920915823820400157/
+2025-07-13 22:00:45 - DEBUG - Extracted pin ID (standard format): 920915823820400157
+2025-07-13 22:00:45 - INFO - Processing pin: 920915823820400157
+2025-07-13 22:00:45 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/920915823820400157/
+2025-07-13 22:00:47 - DEBUG - Navigating to pin page
+2025-07-13 22:00:55 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:00:55 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/31/20/99/312099a73de29e08f6652074c0d8466b.jpg
+2025-07-13 22:00:55 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/31/20/99/312099a73de29e08f6652074c0d8466b.jpg
+2025-07-13 22:00:55 - DEBUG - Original quality URL available
+2025-07-13 22:00:55 - INFO - Downloading image from: https://i.pinimg.com/736x/31/20/99/312099a73de29e08f6652074c0d8466b.jpg
+2025-07-13 22:00:55 - DEBUG - Saved 215 processed pins to history
+2025-07-13 22:00:55 - DEBUG - Marked pin 920915823820400157 as processed
+2025-07-13 22:00:55 - INFO - Successfully downloaded pin 920915823820400157 - Size: 92424 bytes
+2025-07-13 22:00:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493673038417/
+2025-07-13 22:00:56 - DEBUG - Extracted pin ID (description format): 844493673038417
+2025-07-13 22:00:56 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/dr-martens-outfits--844493673038417/
+2025-07-13 22:00:56 - DEBUG - Extracted pin ID (description format): 844493673038417
+2025-07-13 22:00:56 - INFO - Processing pin: 844493673038417
+2025-07-13 22:00:56 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/dr-martens-outfits--844493673038417/
+2025-07-13 22:00:58 - DEBUG - Navigating to pin page
+2025-07-13 22:01:00 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:01:00 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/a2/fb/44/a2fb44ead75c77e111aea4e77f8cb514.jpg
+2025-07-13 22:01:00 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/a2/fb/44/a2fb44ead75c77e111aea4e77f8cb514.jpg
+2025-07-13 22:01:00 - DEBUG - Original quality URL available
+2025-07-13 22:01:00 - INFO - Downloading image from: https://i.pinimg.com/736x/a2/fb/44/a2fb44ead75c77e111aea4e77f8cb514.jpg
+2025-07-13 22:01:00 - DEBUG - Saved 216 processed pins to history
+2025-07-13 22:01:00 - DEBUG - Marked pin 844493673038417 as processed
+2025-07-13 22:01:00 - INFO - Successfully downloaded pin 844493673038417 - Size: 95226 bytes
+2025-07-13 22:01:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673011729/
+2025-07-13 22:01:01 - DEBUG - Extracted pin ID (standard format): 844493673011729
+2025-07-13 22:01:01 - DEBUG - Extracting pin ID from URL: https://www.pinterest.com/pin/844493673011729/
+2025-07-13 22:01:01 - DEBUG - Extracted pin ID (standard format): 844493673011729
+2025-07-13 22:01:01 - INFO - Processing pin: 844493673011729
+2025-07-13 22:01:01 - DEBUG - Extracting image URL from pin page: https://www.pinterest.com/pin/844493673011729/
+2025-07-13 22:01:03 - DEBUG - Navigating to pin page
+2025-07-13 22:01:04 - DEBUG - Waiting for og:image meta tag
+2025-07-13 22:01:05 - DEBUG - Successfully extracted image URL: https://i.pinimg.com/736x/96/e8/99/96e89976dd99d669a196cdcebbc5bdac.jpg
+2025-07-13 22:01:05 - DEBUG - Getting highest quality URL for: https://i.pinimg.com/736x/96/e8/99/96e89976dd99d669a196cdcebbc5bdac.jpg
+2025-07-13 22:01:05 - DEBUG - Original quality URL available
+2025-07-13 22:01:05 - INFO - Downloading image from: https://i.pinimg.com/736x/96/e8/99/96e89976dd99d669a196cdcebbc5bdac.jpg
+2025-07-13 22:01:05 - DEBUG - Saved 217 processed pins to history
+2025-07-13 22:01:05 - DEBUG - Marked pin 844493673011729 as processed
+2025-07-13 22:01:05 - INFO - Successfully downloaded pin 844493673011729 - Size: 92438 bytes
+2025-07-13 22:01:05 - INFO - === MULTI-LEVEL SCRAPING COMPLETED ===
+2025-07-13 22:01:05 - INFO - Duration: 0:09:32.002117
+2025-07-13 22:01:05 - INFO - Main pins found: 10
+2025-07-13 22:01:05 - INFO - Similar pins found: 49
+2025-07-13 22:01:05 - INFO - Total unique pins: 59
+2025-07-13 22:01:05 - INFO - Successful downloads: 54
+2025-07-13 22:01:05 - INFO - Skipped duplicates: 5
+2025-07-13 22:01:05 - INFO - Failed downloads: 0
+2025-07-13 22:01:05 - INFO - Total processed pins in history: 217

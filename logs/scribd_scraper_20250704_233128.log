@@ -1,0 +1,162 @@
+2025-07-04 23:31:28 - ScribdScraper - INFO - setup_logging:45 - Logging started - Log file: logs\scribd_scraper_20250704_233128.log
+2025-07-04 23:31:28 - ScribdScraper - INFO - setup_logging:46 - Script started at 2025-07-04 23:31:28.736168
+2025-07-04 23:31:28 - ScribdScraper - INFO - run:355 - Starting scraping process for query: 'australia bank statement' with max_docs: 5
+2025-07-04 23:31:28 - ScribdScraper - INFO - search_google_for_scribd:187 - Starting Google search for query: 'australia bank statement', max_documents: 5
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/505581024/Commonweath-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/494067816/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/494067842/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT-2
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/550599696/1502F90C-DEC7-11EA-9141-704740B88782
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/705668482/Bank-statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/632684916/Westpac-Bank-Statement-BankStatements-net-docx
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/632684912/St-George-Bank-Statement-BankStatements-net
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/749392136/Bank-STATEMENT
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/813931525/01-03-30-04-Australia-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/810118140/BANK-STATEMENT-AUSTRALIA-WISE
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/374909816/NAB-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/679969700/Australia-Westpac-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/808540256/Bank-Statement-Au-1-Doc
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/766030827/Bank-Statement-for-last-3-Months
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/679969698/Australia-Westpac-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/632684788/ANZ-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/718756155/Commonweath-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://de.scribd.com/document/813931527/01-08-31-08-Australia-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://translate.google.com/translate
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/791273026/Bank-Statement-Commonwealth
+2025-07-04 23:31:59 - ScribdScraper - INFO - search_google_for_scribd:228 - Found 20 total Scribd documents in 31.15 seconds
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:366 - Found 20 total documents to check
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 1/20: https://www.scribd.com/document/505581024/Commonweath-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 505581024 already exists as file: australia_bank_statement_505581024.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 505581024 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 1 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 2/20: https://www.scribd.com/document/494067816/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 494067816 already exists as file: australia_bank_statement_494067816.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 494067816 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 2 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 3/20: https://www.scribd.com/document/494067842/AUSTRALIA-COMMONWEALTH-BANK-STATEMENT-2
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 494067842 already exists as file: australia_bank_statement_494067842.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 494067842 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 3 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 4/20: https://www.scribd.com/document/550599696/1502F90C-DEC7-11EA-9141-704740B88782
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 550599696 already exists as file: australia_bank_statement_550599696.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 550599696 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 4 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 5/20: https://www.scribd.com/document/705668482/Bank-statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 705668482 already exists as file: australia_bank_statement_705668482.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 705668482 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 5 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 6/20: https://www.scribd.com/document/632684916/Westpac-Bank-Statement-BankStatements-net-docx
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 632684916 already exists as file: australia_bank_statement_632684916.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 632684916 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 6 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 7/20: https://www.scribd.com/document/632684912/St-George-Bank-Statement-BankStatements-net
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 632684912 already exists as file: australia_bank_statement_632684912.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 632684912 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 7 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 8/20: https://www.scribd.com/document/749392136/Bank-STATEMENT
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 749392136 already exists as file: australia_bank_statement_749392136.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 749392136 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 8 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 9/20: https://www.scribd.com/document/813931525/01-03-30-04-Australia-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 813931525 already exists as file: australia_bank_statement_813931525.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 813931525 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 9 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 10/20: https://www.scribd.com/document/810118140/BANK-STATEMENT-AUSTRALIA-WISE
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 810118140 already exists as file: australia_bank_statement_810118140.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 810118140 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 10 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 11/20: https://www.scribd.com/document/374909816/NAB-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 374909816 already exists as file: australia_bank_statement_374909816.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 374909816 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 11 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 12/20: https://www.scribd.com/document/679969700/Australia-Westpac-Bank-Statement
+2025-07-04 23:31:59 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 679969700 already exists as file: australia_bank_statement_679969700.pdf - skipping
+2025-07-04 23:31:59 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [1] Skipping doc_id 679969700 - already processed
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:390 - Continuing search... (0/5 processed, 12 skipped)
+2025-07-04 23:31:59 - ScribdScraper - INFO - run:377 - Checking document 13/20: https://www.scribd.com/document/808540256/Bank-Statement-Au-1-Doc
+2025-07-04 23:32:00 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 808540256 as processed
+2025-07-04 23:32:04 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [1] Processing doc_id 808540256
+2025-07-04 23:32:04 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/808540256/content
+2025-07-04 23:32:09 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:32:09 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:32:13 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 10 pages
+2025-07-04 23:32:13 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:32:14 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:32:15 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-04 23:32:15 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\australia_bank_statement_808540256.pdf
+2025-07-04 23:32:15 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [1] Successfully processed and saved doc_id 808540256
+2025-07-04 23:32:19 - ScribdScraper - INFO - run:382 - Progress: 1/5 documents processed
+2025-07-04 23:32:19 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:32:24 - ScribdScraper - INFO - run:377 - Checking document 14/20: https://www.scribd.com/document/766030827/Bank-Statement-for-last-3-Months
+2025-07-04 23:32:24 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 766030827 as processed
+2025-07-04 23:32:26 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [2] Processing doc_id 766030827
+2025-07-04 23:32:26 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/766030827/content
+2025-07-04 23:32:31 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:32:31 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:32:34 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 8 pages
+2025-07-04 23:32:34 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:32:35 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:32:38 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\australia_bank_statement_766030827.pdf
+2025-07-04 23:32:38 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [2] Successfully processed and saved doc_id 766030827
+2025-07-04 23:32:40 - ScribdScraper - INFO - run:382 - Progress: 2/5 documents processed
+2025-07-04 23:32:40 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:32:45 - ScribdScraper - INFO - run:377 - Checking document 15/20: https://www.scribd.com/document/679969698/Australia-Westpac-Bank-Statement
+2025-07-04 23:32:45 - ScribdScraper - INFO - check_doc_id_exists:152 - Doc_id 679969698 already exists as file: australia_bank_statement_679969698.pdf - skipping
+2025-07-04 23:32:45 - ScribdScraper - INFO - scrape_and_save_pdf:329 - [3] Skipping doc_id 679969698 - already processed
+2025-07-04 23:32:45 - ScribdScraper - INFO - run:390 - Continuing search... (2/5 processed, 13 skipped)
+2025-07-04 23:32:45 - ScribdScraper - INFO - run:377 - Checking document 16/20: https://www.scribd.com/document/632684788/ANZ-Bank-Statement
+2025-07-04 23:32:45 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 632684788 as processed
+2025-07-04 23:32:47 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [3] Processing doc_id 632684788
+2025-07-04 23:32:47 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/632684788/content
+2025-07-04 23:32:52 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:32:52 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:32:57 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 13 pages
+2025-07-04 23:32:57 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:32:58 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:33:00 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-04 23:33:00 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-04 23:33:00 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 5
+2025-07-04 23:33:00 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 7
+2025-07-04 23:33:01 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 9
+2025-07-04 23:33:01 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 11
+2025-07-04 23:33:01 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\australia_bank_statement_632684788.pdf
+2025-07-04 23:33:01 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [3] Successfully processed and saved doc_id 632684788
+2025-07-04 23:33:03 - ScribdScraper - INFO - run:382 - Progress: 3/5 documents processed
+2025-07-04 23:33:03 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:33:08 - ScribdScraper - INFO - run:377 - Checking document 17/20: https://www.scribd.com/document/718756155/Commonweath-Bank-Statement
+2025-07-04 23:33:08 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 718756155 as processed
+2025-07-04 23:33:10 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [4] Processing doc_id 718756155
+2025-07-04 23:33:10 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/718756155/content
+2025-07-04 23:33:15 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:33:15 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:33:17 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 6 pages
+2025-07-04 23:33:17 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:33:18 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:33:19 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-04 23:33:19 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-04 23:33:19 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\australia_bank_statement_718756155.pdf
+2025-07-04 23:33:19 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [4] Successfully processed and saved doc_id 718756155
+2025-07-04 23:33:21 - ScribdScraper - INFO - run:382 - Progress: 4/5 documents processed
+2025-07-04 23:33:21 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:33:26 - ScribdScraper - INFO - run:377 - Checking document 18/20: https://de.scribd.com/document/813931527/01-08-31-08-Australia-Bank-Statement
+2025-07-04 23:33:26 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 813931527 as processed
+2025-07-04 23:33:28 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [5] Processing doc_id 813931527
+2025-07-04 23:33:28 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/813931527/content
+2025-07-04 23:33:33 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:33:33 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:33:38 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 14 pages
+2025-07-04 23:33:38 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:33:39 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:33:41 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-04 23:33:41 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-04 23:33:41 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 5
+2025-07-04 23:33:41 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 7
+2025-07-04 23:33:41 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 9
+2025-07-04 23:33:42 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 11
+2025-07-04 23:33:42 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 12
+2025-07-04 23:33:42 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 13
+2025-07-04 23:33:42 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\australia_bank_statement_813931527.pdf
+2025-07-04 23:33:42 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [5] Successfully processed and saved doc_id 813931527
+2025-07-04 23:33:44 - ScribdScraper - INFO - run:382 - Progress: 5/5 documents processed
+2025-07-04 23:33:44 - ScribdScraper - INFO - run:374 - Target of 5 documents reached. Stopping search.
+2025-07-04 23:33:44 - ScribdScraper - INFO - run:397 - Successfully processed 5/5 new documents. 13 duplicates were skipped.
+2025-07-04 23:33:44 - ScribdScraper - INFO - run:400 - Scraping process completed: 5 processed, 13 skipped

@@ -1,0 +1,96 @@
+2025-07-04 23:36:12 - ScribdScraper - INFO - setup_logging:45 - Logging started - Log file: logs\scribd_scraper_20250704_233612.log
+2025-07-04 23:36:12 - ScribdScraper - INFO - setup_logging:46 - Script started at 2025-07-04 23:36:12.932601
+2025-07-04 23:36:12 - ScribdScraper - INFO - run:355 - Starting scraping process for query: 'aadhar card' with max_docs: 5
+2025-07-04 23:36:12 - ScribdScraper - INFO - search_google_for_scribd:187 - Starting Google search for query: 'aadhar card', max_documents: 5
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/636453156/adhaar-card
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/447365921/Aadhaar-Card-pdf
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/593615625/ADITI
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/617668795/ajay-kumar
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/275309298/List-of-Valid-Documents-for-Aadhar-Card-Data-Update-001
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/781881544/Aadhar-Card-Jason-compressed
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/353915251/Aadhaar-Card-Documents-Required
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/682195355/AADHAR-CARD
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/812189995/Aadhar-card
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/432870097/All-Aadhar-Card
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/719527168/Aadhar-Card
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/729240028/Self-Attested-Aadhar-Card
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/494601557/India-Aadhaar-Numbers-Starting-With-2
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/830537371/Aadhar-Card
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/838478937/Aadhar-Card
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:219 - Found Scribd document: https://www.scribd.com/document/481921855/ADHAR-CARD-OF-RAKESH-KUMAR
+2025-07-04 23:36:21 - ScribdScraper - INFO - search_google_for_scribd:228 - Found 16 total Scribd documents in 8.37 seconds
+2025-07-04 23:36:21 - ScribdScraper - INFO - run:366 - Found 16 total documents to check
+2025-07-04 23:36:21 - ScribdScraper - INFO - run:377 - Checking document 1/16: https://www.scribd.com/document/636453156/adhaar-card
+2025-07-04 23:36:21 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 636453156 as processed
+2025-07-04 23:36:23 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [1] Processing doc_id 636453156
+2025-07-04 23:36:23 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/636453156/content
+2025-07-04 23:36:28 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:36:28 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:36:30 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 6 pages
+2025-07-04 23:36:30 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:36:31 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:36:31 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-04 23:36:31 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 2
+2025-07-04 23:36:31 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-04 23:36:31 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\aadhar_card_636453156.pdf
+2025-07-04 23:36:31 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [1] Successfully processed and saved doc_id 636453156
+2025-07-04 23:36:34 - ScribdScraper - INFO - run:382 - Progress: 1/5 documents processed
+2025-07-04 23:36:34 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:36:39 - ScribdScraper - INFO - run:377 - Checking document 2/16: https://www.scribd.com/document/447365921/Aadhaar-Card-pdf
+2025-07-04 23:36:39 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 447365921 as processed
+2025-07-04 23:36:40 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [2] Processing doc_id 447365921
+2025-07-04 23:36:40 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/447365921/content
+2025-07-04 23:36:45 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:36:45 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:36:47 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 6 pages
+2025-07-04 23:36:47 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:36:49 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:36:50 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-04 23:36:50 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-04 23:36:50 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\aadhar_card_447365921.pdf
+2025-07-04 23:36:50 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [2] Successfully processed and saved doc_id 447365921
+2025-07-04 23:36:52 - ScribdScraper - INFO - run:382 - Progress: 2/5 documents processed
+2025-07-04 23:36:52 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:36:57 - ScribdScraper - INFO - run:377 - Checking document 3/16: https://www.scribd.com/document/593615625/ADITI
+2025-07-04 23:36:57 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 593615625 as processed
+2025-07-04 23:36:59 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [3] Processing doc_id 593615625
+2025-07-04 23:36:59 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/593615625/content
+2025-07-04 23:37:04 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:37:04 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:37:06 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 6 pages
+2025-07-04 23:37:06 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:37:07 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:37:08 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 1
+2025-07-04 23:37:08 - ScribdScraper - INFO - trim_and_save:316 - [i] Skipping blank page 3
+2025-07-04 23:37:08 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\aadhar_card_593615625.pdf
+2025-07-04 23:37:08 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [3] Successfully processed and saved doc_id 593615625
+2025-07-04 23:37:10 - ScribdScraper - INFO - run:382 - Progress: 3/5 documents processed
+2025-07-04 23:37:10 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:37:15 - ScribdScraper - INFO - run:377 - Checking document 4/16: https://www.scribd.com/document/617668795/ajay-kumar
+2025-07-04 23:37:15 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 617668795 as processed
+2025-07-04 23:37:17 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [4] Processing doc_id 617668795
+2025-07-04 23:37:17 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/617668795/content
+2025-07-04 23:37:22 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:37:22 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:37:25 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 8 pages
+2025-07-04 23:37:25 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:37:26 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:37:27 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\aadhar_card_617668795.pdf
+2025-07-04 23:37:27 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [4] Successfully processed and saved doc_id 617668795
+2025-07-04 23:37:29 - ScribdScraper - INFO - run:382 - Progress: 4/5 documents processed
+2025-07-04 23:37:29 - ScribdScraper - INFO - run:386 - Waiting 5 seconds before next download...
+2025-07-04 23:37:34 - ScribdScraper - INFO - run:377 - Checking document 5/16: https://www.scribd.com/document/275309298/List-of-Valid-Documents-for-Aadhar-Card-Data-Update-001
+2025-07-04 23:37:34 - ScribdScraper - DEBUG - mark_doc_id_processed:179 - Marked doc_id 275309298 as processed
+2025-07-04 23:37:36 - ScribdScraper - INFO - scrape_and_save_pdf:338 - [5] Processing doc_id 275309298
+2025-07-04 23:37:36 - ScribdScraper - INFO - print_page_to_pdf_bytes:232 - Navigating to https://www.scribd.com/embeds/275309298/content
+2025-07-04 23:37:42 - ScribdScraper - INFO - print_page_to_pdf_bytes:243 - Document container found
+2025-07-04 23:37:42 - ScribdScraper - INFO - print_page_to_pdf_bytes:259 - Scrolling through pages to load content...
+2025-07-04 23:37:44 - ScribdScraper - INFO - print_page_to_pdf_bytes:264 - Finished scrolling through 6 pages
+2025-07-04 23:37:44 - ScribdScraper - INFO - print_page_to_pdf_bytes:267 - Cleaning up unwanted elements...
+2025-07-04 23:37:45 - ScribdScraper - INFO - print_page_to_pdf_bytes:294 - Generating PDF...
+2025-07-04 23:37:47 - ScribdScraper - INFO - trim_and_save:319 - [+] Saved trimmed PDF: scraped_data/scribd_documents\aadhar_card_275309298.pdf
+2025-07-04 23:37:47 - ScribdScraper - INFO - scrape_and_save_pdf:343 - [5] Successfully processed and saved doc_id 275309298
+2025-07-04 23:37:49 - ScribdScraper - INFO - run:382 - Progress: 5/5 documents processed
+2025-07-04 23:37:49 - ScribdScraper - INFO - run:374 - Target of 5 documents reached. Stopping search.
+2025-07-04 23:37:49 - ScribdScraper - INFO - run:397 - Successfully processed 5/5 new documents. 0 duplicates were skipped.
+2025-07-04 23:37:49 - ScribdScraper - INFO - run:400 - Scraping process completed: 5 processed, 0 skipped
